@@ -22,7 +22,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="test.jpg" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/test.jpg" alt=""/>&nbsp;</td>
 <td><p class="pub_title"> Unprocessing Images for Learned Raw Denoising, </p>
 <p class="pub_author"> Tim Brooks, Ben Mildenhall, <b>Tianfan Xue</b>, Jiawen Chen, Dillon Sharlet, Jonathan T. Barron <br>
 Computer Vision and Pattern Recognition (<b>CVPR</b>), 2019 <br>
