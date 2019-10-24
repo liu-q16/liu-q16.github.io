@@ -32,21 +32,27 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <p><span style="font-weight: bold">Sep. 2019 - Present</span>, Department of Statistics, <b>Stanford University</b></p> <p> Visiting Scholar</p>
+        <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
+        <div>Department of Statistics, Stanford University</div> 
+        <div> Visiting Scholar</div>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <p><span style="font-weight: bold">Aug. 2016 - Present</span>, Department of Automation <b>Tsinghua University</b>,</p> <p>Ph.D. Candidate</p>
+        <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
+        <div>Department of Automation, Tsinghua University</div>
+        <div>Ph.D. Candidate</div>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/beihang_logo.jpg" width="96px" height="96px"/></span>
     <div class="media-body">
-        <p><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span>, ShenYuan Honors College<b>Beihang University</b>,</p> <p>Undergraduate</p>
+        <div><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span></div>
+        <div>ShenYuan Honors College,Beihang University</div> 
+        <div>Undergraduate</div>
     </div>
 </div>
 
