@@ -28,7 +28,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <a name="education"></a>
 
 
-<font size=4>
+
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
@@ -64,7 +64,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
         <div>Bachelor of Engineering</div>
     </div>
 </div>
-</font>
+
 
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
