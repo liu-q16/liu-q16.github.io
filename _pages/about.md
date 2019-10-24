@@ -24,7 +24,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
-<p class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </p>
+<div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
 <div><b>AAAI</b>, 2019</div>
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>] </td>
 </tr>
@@ -32,9 +32,9 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="250px" alt=""/>&nbsp;</td>
-<td><p class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </p>
-<p class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </p><br>
-<b>RECOMB</b>, 2020 <br>
+<td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </div>
+<div<b>RECOMB</b>, 2020 </div>
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </td>
 </tr>
 
