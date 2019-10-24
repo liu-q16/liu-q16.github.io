@@ -32,9 +32,9 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <font size=2><div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
-        <div>Department of Statistics, <b>Stanford University></b></div> 
-        <div>Visiting Scholar</div></font>
+        <div><span style="font-weight: bold"><font size=2>Sep. 2019 - Present</font></span></div>
+        <div><font size=2>Department of Statistics, <b>Stanford University></b></font></div> 
+        <div><font size=2>Visiting Scholar</font></div>
     </div>
 </div>
 
