@@ -22,14 +22,20 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/test.jpg" alt=""/>&nbsp;</td>
-<td><p class="pub_title"> Unprocessing Images for Learned Raw Denoising, </p>
-<p class="pub_author"> Tim Brooks, Ben Mildenhall, <b>Tianfan Xue</b>, Jiawen Chen, Dillon Sharlet, Jonathan T. Barron <br>
-Computer Vision and Pattern Recognition (<b>CVPR</b>), 2019 <br>
-[<a href="https://people.csail.mit.edu/tfxue/papers/cvpr2019_unprocess.pdf">PDF</a>] [<a href="http://timothybrooks.com/tech/unprocessing/">Website</a>] [<a href="https://github.com/google-research/google-research/tree/master/unprocessing">github</a>] </p></td>
+<td><img class="proj_thumb" src="images/hicGAN.png" width="100px" alt=""/>&nbsp;</td>
+<td><p class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</p>
+<p class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang <br>
+<b>ISMB/Bioinformatics</b>, 2019 <br>
+[<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </p></td>
 </tr>
 
-
+<tr>
+<td><img class="proj_thumb" src="images/DeepCDR.png" width="100px" alt=""/>&nbsp;</td>
+<td><p class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </p>
+<p class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou <br>
+<b>AAAI</b>, 2019 <br>
+[<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </p></td>
+</tr>
 
 
 
