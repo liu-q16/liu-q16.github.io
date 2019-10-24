@@ -19,8 +19,8 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 *{padding:0;margin:0;}
 .media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{width:80px;height:80px;float:left;border:0 solid #ccc}
-.pull-left img{width:80px;height:80px;}
+.pull-left{width:90px;height:90px;float:left;border:0 solid #ccc}
+.pull-left img{width:90px;height:90px;}
 .media-body{float:left;width:450px;margin-left:10px;}
 </style>
 
@@ -38,6 +38,9 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
     </div>
 </div>
 
+<br />
+<br />
+
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
@@ -46,6 +49,21 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
         <div>Ph.D. Candidate</div>
     </div>
 </div>
+
+<br />
+<br />
+
+<div class="media">
+    <span class="pull-left"><img src="images/lund_logo.png" width="96px" height="96px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
+        <div>Department of Computer Science,Lund University</div> 
+        <div>Exchange Student</div>
+    </div>
+</div>
+
+<br />
+<br />
 
 <div class="media">
     <span class="pull-left"><img src="images/beihang_logo.jpg" width="96px" height="96px"/></span>
