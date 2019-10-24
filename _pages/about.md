@@ -23,9 +23,9 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="300px" alt=""/>&nbsp;</td>
-<td><p class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </p>
+<td><b class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </b>
 <p class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </p>
-<b>AAAI</b>, 2019 <br>
+<b>AAAI</b>, 2019
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>] </p></td>
 </tr>
 
