@@ -17,11 +17,11 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
 *{padding:0;margin:0;}
-.media{width:400px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{width:80px;height:80px;float:left;border:0 solid #ccc}
 .pull-left img{width:80px;height:80px;}
-.media-body{float:left;width:400px;margin-left:0;}
+.media-body{float:left;width:500px;margin-left:5px;}
 </style>
 
 <h2>Education</h2>
