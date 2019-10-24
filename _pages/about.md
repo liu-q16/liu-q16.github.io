@@ -14,7 +14,18 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 ## Recent News
 * September 3, 2019. xxx.
 
-## Education
+
+<h3>Education</h3>
+<a name="education"></a>
+<div class="media">
+    <span class="pull-left"><img src="images/stanford_logo.png" width="80px" height="96px"/></span>
+    <div class="media-body">
+        <p><span style="font-weight: bold">2014 - 2019</span>, Department of Electrical Engineering, <i><b>Stanford University</b></i>,</p>
+        <p>Doctor of Philosophy (PhD)</p>
+</div>
+</div>
+
+
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
