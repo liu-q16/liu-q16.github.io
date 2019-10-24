@@ -46,7 +46,13 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </p></td>
 </tr>
 
-
+<tr>
+<td><img class="proj_thumb" src="images/hicGAN.png" alt=""/>&nbsp;</td>
+<td><p class="pub_title"> Stereoscopic Dark Flash for Low-light Photography, </p>
+<p class="pub_author"> Jian Wang, <b>Tianfan Xue</b>, Jonathan T. Barron, Jiawen Chen <br>
+International Conference on Computational Photography (<b>ICCP</b>), 2019 <br>
+[<a href="https://arxiv.org/pdf/1901.01370.pdf">PDF</a>] [<a href="https://youtu.be/1LZJWLagSVU">YouTube</a>] </p></td>
+</tr>
 
 
 
