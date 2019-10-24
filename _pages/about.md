@@ -21,35 +21,35 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{width:80px;height:80px;float:left;border:0 solid #ccc}
 .pull-left img{width:80px;height:80px;}
-.media-body{float:left;width:500px;margin-left:5px;}
+.media-body{float:left;width:450px;margin-left:10px;}
 </style>
 
 <h2>Education</h2>
 <a name="education"></a>
-<div class="media">
-    <span class="pull-left"><img src="images/stanford_logo.png" width="80px" height="80px"/></span>
-    <div class="media-body">
-        <p><span style="font-weight: bold">2014 - 2019</span>, Department of Electrical Engineering, <i><b>Stanford University</b></i>,</p>
-        <p>Doctor of Philosophy (PhD)</p>
-</div>
-</div>
+
 
 
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <p><span style="font-weight: bold">Sep. 2019 - Present</span>, Department of Statistics, <i><b>Stanford University</b></i>,</p>
-        <p> Visiting Scholar.</p>
+        <p><span style="font-weight: bold">Sep. 2019 - Present</span>, Department of Statistics, <b>Stanford University</b></p> <p> Visiting Scholar</p>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <p><span style="font-weight: bold">Aug. 2016 - Present</span>, Department of Automation <i><b>Tsinghua University</b></i>,</p>
-        <p>Ph.D. Candidate.</p>
+        <p><span style="font-weight: bold">Aug. 2016 - Present</span>, Department of Automation <b>Tsinghua University</b>,</p> <p>Ph.D. Candidate</p>
     </div>
 </div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/beihang_logo.jpg" width="96px" height="96px"/></span>
+    <div class="media-body">
+        <p><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span>, ShenYuan Honors College<b>Beihang University</b>,</p> <p>Undergraduate</p>
+    </div>
+</div>
+
 
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
