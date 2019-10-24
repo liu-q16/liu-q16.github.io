@@ -32,27 +32,27 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold"><font size=2>Sep. 2019 - Present</font></span></div>
-        <div><font size=2>Department of Statistics, <b>Stanford University></b></font></div> 
-        <div><font size=2>Visiting Scholar</font></div>
+        <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
+        <div>Department of Statistics, <b>Stanford University></b></div> 
+        <div>Visiting Scholar</div>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <font size=2><div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
+        <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
         <div>Department of Automation, <b>Tsinghua University</b></div>
-        <div>Ph.D. Candidate</div></font>
+        <div>Ph.D. Candidate</div>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/lund_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
-        <font size=2><div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
+        <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
         <div>Department of Computer Science, <b>Lund University</b></div> 
-        <div>Exchange Student</div></font>
+        <div>Exchange Student</div>
     </div>
 </div>
 
