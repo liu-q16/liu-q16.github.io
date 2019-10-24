@@ -33,8 +33,8 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
     <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
-        <div>Department of Statistics, <b>Stanford University></b></div> 
-        <div>Visiting Scholar</div>
+        <div>Department of Statistics, <b>Stanford University</b></div> 
+        <div><b>Visiting Scholar</b></div>
     </div>
 </div>
 
@@ -43,7 +43,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
         <div>Department of Automation, <b>Tsinghua University</b></div>
-        <div>Ph.D. Candidate</div>
+        <div><b>Ph.D. Candidate</b></div>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
         <div>Department of Computer Science, <b>Lund University</b></div> 
-        <div>Exchange Student</div>
+        <div><b>Exchange Student</b></div>
     </div>
 </div>
 
@@ -61,7 +61,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span></div>
         <div>ShenYuan Honors College, <b>Beihang University</b></div> 
-        <div>Bachelor of Engineering</div>
+        <div><b>Bachelor of Engineering</b></div>
     </div>
 </div>
 
