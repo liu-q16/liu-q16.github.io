@@ -14,11 +14,20 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 ## Recent News
 * September 3, 2019. xxx.
 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+*{padding:0;margin:0;}
+.media{width:1000px;margin:0 auto;border:1px solid #ccc;padding:10px 0;}
+.media:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left{width:200px;height:200px;float:left;border:1px solid #ccc}
+.pull-left img{width:80px;height:80px;}
+.media-body{float:left;width:700px;margin-left:90px;}
+</style>
 
-<h3>Education</h3>
+<h2>Education</h2>
 <a name="education"></a>
 <div class="media">
-    <span class="pull-left"><img src="images/stanford_logo.png" width="80px" height="96px"/></span>
+    <span class="pull-left"><img src="images/stanford_logo.png" width="80px" height="80px"/></span>
     <div class="media-body">
         <p><span style="font-weight: bold">2014 - 2019</span>, Department of Electrical Engineering, <i><b>Stanford University</b></i>,</p>
         <p>Doctor of Philosophy (PhD)</p>
