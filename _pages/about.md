@@ -14,7 +14,22 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 ## Recent News
 * September 3, 2019. xxx.
 
-## Highlight Research
+## Education
+<div class="media">
+    <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
+    <div class="media-body">
+        <p><span style="font-weight: bold">Sep. 2019 - Present</span>, Department of Statistics, <i><b>Stanford University</b></i>,</p>
+        <p> Visiting Scholar.</p>
+    </div>
+</div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
+    <div class="media-body">
+        <p><span style="font-weight: bold">Aug. 2016 - Present</span>, Department of Automation <i><b>Tsinghua University</b></i>,</p>
+        <p>Ph.D. Candidate.</p>
+    </div>
+</div>
 
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
@@ -34,25 +49,18 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </div>
-<div<b>RECOMB</b>, 2020 </div>
+<div><b>RECOMB</b>, 2020 </div>
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </td>
 </tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="250px" alt=""/>&nbsp;</td>
-<td><p class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</p>
-<p class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </p><br>
-<b>ISMB/Bioinformatics</b>, 2019 <br>
+<td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
+<div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
+<div><b>ISMB/Bioinformatics</b>, 2019 </div>
 [<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </td>
 </tr>
 
-<tr>
-<td><img class="proj_thumb" src="images/hicGAN.png" width="250px" alt=""/>&nbsp;</td>
-<td><p class="pub_title"> Stereoscopic Dark Flash for Low-light Photography, </p>
-<p class="pub_author"> Jian Wang, <b>Tianfan Xue</b>, Jonathan T. Barron, Jiawen Chen <br>
-International Conference on Computational Photography (<b>ICCP</b>), 2019 <br>
-[<a href="https://arxiv.org/pdf/1901.01370.pdf">PDF</a>] [<a href="https://youtu.be/1LZJWLagSVU">YouTube</a>] </p></td>
-</tr>
 
 
 
