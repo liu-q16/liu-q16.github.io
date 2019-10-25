@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.edu.cn/) at [Tsinghua University](https://www.stanford.edu/). My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
+<style>
+.intro{font-size:15px;}
+</style>
 
+<div class="intro">
+I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.edu.cn/) at [Tsinghua University](https://www.stanford.edu/). My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
+</div>
 
 ## Recent News
-* September 3, 2019. xxx.
+
+<div class="intro">
+* 2019.09 I will visiting the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.
+* 2019.11 One paper was accepted to RECOMB 2020.
+</style>
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">

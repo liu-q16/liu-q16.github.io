@@ -59,7 +59,7 @@ Bai Li, Mu Lin, <b>Qiao Liu</b>, Ya Li.
 <i>Journal of Molecular Modeling</i>. 2015, 21(10): 261. (Q2)[<a href="https://liu-q16.github.io/publications/BE-ABC">Abstract</a>][<a href="https://liu-q16.github.io/files/BE-ABC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/BE-ABC">Code</a>]</div>
 
 <div class="pub">
-[\* denotes equal contribution]
+(* denotes equal contribution)
 </div>
 
 
