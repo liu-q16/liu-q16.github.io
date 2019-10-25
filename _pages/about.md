@@ -21,7 +21,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{width:80px;height:80px;float:left;border:0 solid #ccc}
 .pull-left img{width:80px;height:80px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:12px;}
+.media-body{float:left;width:450px;margin-left:10px;font-size:14px;}
 </style>
 
 <h2>Education</h2>
