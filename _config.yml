@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kimmo"
 title_separator          : "-"
 name                     : &name "Qiao Liu"
-description              : &description "Ph.D. student, Department of Automation, Tsinghua University"
+description              : &description "Ph.D. student, Tsinghua University"
 url                      : https://liu-q16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liu-q16.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qiao Liu"
   avatar           : "liuqiao.png"
-  bio              : "Ph.D. student, Department of Automation, Tsinghua University"
+  bio              : "Ph.D. student, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
