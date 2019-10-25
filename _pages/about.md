@@ -13,15 +13,17 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.edu.cn/) at [Tsinghua University](https://www.stanford.edu/). My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>. My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
 </div>
 
 ## Recent News
 
 <div class="intro">
-* 2019.09 I will visiting the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.
-* 2019.11 One paper was accepted to RECOMB 2020.
-</style>
+  <ul>
+  <li>2019.09 I will visiting the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.</li>
+  <li>2019.11 One paper was accepted to RECOMB 2020.</li>
+  </ul> 
+</div>
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
@@ -30,7 +32,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{width:75px;height:75px;float:left;border:0 solid #ccc}
 .pull-left img{width:75px;height:75px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:14px;}
+.media-body{float:left;width:450px;margin-left:10px;font-size:15px;}
 </style>
 
 <h2>Education</h2>
@@ -79,13 +81,19 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
 
+<style>
+.pub_title{font-size:15px;}
+.pub_author{font-size:15px;}
+.pub_journal{font-size:15px;}
+</style>
+
 <table class="imgtable">
 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div><b>AAAI</b>, 2019 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<div class="pub_journal"><b>AAAI</b>, 2019 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 </td>
 </tr>
 
@@ -94,7 +102,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </div>
-<div><b>RECOMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
+<div class="pub_journal"><b>RECOMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 </td>
 </tr>
 
@@ -102,7 +110,7 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <td><img class="proj_thumb" src="images/hicGAN.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
-<div><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/hicGAN">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
+<div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/hicGAN">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 </td>
 </tr>
 
