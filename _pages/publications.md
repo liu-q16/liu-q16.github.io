@@ -5,7 +5,6 @@ author_profile: true
 ---
 Publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN).
 
-Feel free to [email me](liu-q16@mails.tsinghua.edu.cn) if you require a copy of the paper.
 <style>
 .pub{font-size:15px;}
 </style>

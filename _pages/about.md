@@ -80,10 +80,16 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 
 <h2>Internships</h2>
-
-<div class="media">
-    <span class="pull-left"><img src="images/SenseTime.jpg" height="75px"/></span>
-    <div class="media-body">
+<style>
+.media2{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media2:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left2{height:60px;float:left;border:0 solid #ccc}
+.pull-left2 img{height:60px;}
+.media-body2{float:left;width:450px;margin-left:10px;font-size:15px;}
+</style>
+<div class="media2">
+    <span class="pull-left2"><img src="images/SenseTime.jpg" height="75px"/></span>
+    <div class="media-body2">
         <div><span style="font-weight: bold">Jul. 2019 - Sep. 2019</span></div>
         <div> AI+Healthcare, <b>SenseTime Inc</b></div>
         <div><b>Research Intern</b></div>
