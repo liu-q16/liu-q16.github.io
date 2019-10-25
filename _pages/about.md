@@ -86,7 +86,6 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <div class="media-body">
         <div><span style="font-weight: bold">Jul. 2019 - Sep. 2019</span></div>
         <div> AI+Healthcare, <b>SenseTime Inc</b></div>
-        <div>Developing ML algorithms for drug sensitivity prediction and novel drug discovery</div>
         <div><b>Research Intern</b></div>
     </div>
 </div>
