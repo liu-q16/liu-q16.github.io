@@ -43,7 +43,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 
 <div class="media">
-    <span class="pull-left"><img src="images/stanford_logo.png" width="96px" height="96px"/></span>
+    <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
         <div>Department of Statistics, <b>Stanford University</b></div> 
@@ -52,7 +52,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/tsinghua_logo.png" width="96px" height="96px"/></span>
+    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
         <div>Department of Automation, <b>Tsinghua University</b></div>
@@ -61,7 +61,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/lund_logo.png" width="96px" height="96px"/></span>
+    <span class="pull-left"><img src="images/lund_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
         <div>Department of Computer Science, <b>Lund University</b></div> 
@@ -70,11 +70,23 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/beihang_logo.jpg" width="96px" height="96px"/></span>
+    <span class="pull-left"><img src="images/beihang_logo.jpg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span></div>
         <div>ShenYuan Honors College, <b>Beihang University</b></div> 
         <div><b>Bachelor of Engineering</b></div>
+    </div>
+</div>
+
+
+<h2>Internships</h2>
+
+<div class="media">
+    <span class="pull-left"><img src="images/SenseTime.jpg" width="96px" height="96px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Jul. 2019 - Sep. 2019</span></div>
+        <div> AI+Healthcare, mentored by <a href="https://muzhou1.github.io/">Dr. Mu Zhou</a> </div> 
+        <div><b>Research Intern</b></div>
     </div>
 </div>
 
