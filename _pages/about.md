@@ -28,8 +28,8 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 *{padding:0;margin:0;}
 .media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{width:80px;height:80px;float:left;border:0 solid #ccc}
-.pull-left img{width:80px;height:80px;}
+.pull-left{width:75px;height:75px;float:left;border:0 solid #ccc}
+.pull-left img{width:75px;height:75px;}
 .media-body{float:left;width:450px;margin-left:10px;font-size:14px;}
 </style>
 
@@ -85,8 +85,8 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div><b>AAAI</b>, 2019</div>
-[<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>] </td>
+<div><b>AAAI</b>, 2019 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+</td>
 </tr>
 
 
@@ -94,16 +94,16 @@ I am a Ph.D. student in the [Department of Automation](http://www.au.tsinghua.ed
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </div>
-<div><b>RECOMB</b>, 2020 </div>
-[<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </td>
+<div><b>RECOMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
+</td>
 </tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="250px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
-<div><b>ISMB/Bioinformatics</b>, 2019 </div>
-[<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>] [<a href="https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246">Website</a>] [<a href="https://github.com/kimmo1019/hicGAN">Code</a>] </td>
+<div><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/hicGAN">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
+</td>
 </tr>
 
 
