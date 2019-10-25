@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-.intro{font-size:16px;}
+.intro{font-size:18px;}
 </style>
 
 <div class="intro">
@@ -33,7 +33,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{height:75px;float:left;border:0 solid #ccc}
 .pull-left img{height:75px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:15px;}
+.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
 <h2>Education</h2>
@@ -85,7 +85,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 .media2:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left2{height:60px;float:left;border:0 solid #ccc}
 .pull-left2 img{height:60px;}
-.media-body2{float:left;width:450px;margin-left:10px;font-size:15px;}
+.media-body2{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 <div class="media2">
     <span class="pull-left2"><img src="images/SenseTime.jpg" height="75px"/></span>
@@ -101,9 +101,9 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <h2>Selected Publications</h2>
 
 <style>
-.pub_title{font-size:14px;}
-.pub_author{font-size:14px;}
-.pub_journal{font-size:14px;}
+.pub_title{font-size:16px;}
+.pub_author{font-size:16px;}
+.pub_journal{font-size:16px;}
 </style>
 
 <table class="imgtable">
