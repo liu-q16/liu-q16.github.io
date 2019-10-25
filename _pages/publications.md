@@ -6,7 +6,7 @@ author_profile: true
 Publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN).
 
 <style>
-.pub{font-size:15px;}
+.pub{font-size:16px;}
 </style>
 
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
