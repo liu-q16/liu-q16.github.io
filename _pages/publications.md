@@ -10,17 +10,13 @@ Feel free to [email me](liu-q16@mails.tsinghua.edu.cn) if you require a copy of 
 .pub{font-size:15px;}
 </style>
 
-1. <div class="pub"><a href="https://liu-q16.github.io/publications/deepcage">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning</a> <br>
+1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>RECOMB</i>. 2019. (in submission)</div>
+<i>RECOMB</i>. 2019. (in submission) [<a href="https://liu-q16.github.io/publications/deepcage">Abstract</a>][<a href="https://liu-q16.github.io/publications/deepcage">PDF</a>][<a href="https://liu-q16.github.io/publications/deepcage">Code</a>]</div>
 
-1. <a href="https://liu-q16.github.io/publications/deepcage">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning</a> <br>
-<b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>RECOMB</i>. 2019. (in submission)
-
-1. <b>[Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network](https://liu-q16.github.io/publications/UGCN)</b> <br>
+1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network](https://liu-q16.github.io/publications/UGCN) <br>
 <b>Qiao Liu</b>, Zhiqiang Hu and Mu Zhou.
-<i>AAAI</i>. 2019. (under review)
+<i>AAAI</i>. 2019. (under review)[<a href="https://liu-q16.github.io/publications/deepcdr">Abstract</a>][<a href="https://liu-q16.github.io/publications/deepcfr">PDF</a>][<a href="https://liu-q16.github.io/publications/deepcdr">Code</a>]</div>
 
 1. <b>[Quantifying Functional Impacts of Regulatory Variants with Multi-task Bayesian Neural Network](https://liu-q16.github.io/publications/MtBNN)</b> <br>
 Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang.
