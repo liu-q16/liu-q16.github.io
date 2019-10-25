@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>. My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting NGS data and biomedical data.
 </div>
 
 ## Recent News
@@ -82,10 +82,11 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <h2>Internships</h2>
 
 <div class="media">
-    <span class="pull-left"><img src="images/SenseTime.jpg" width="96px" height="96px"/></span>
+    <span class="pull-left"><img src="images/SenseTime.jpg" height="96px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Jul. 2019 - Sep. 2019</span></div>
-        <div> AI+Healthcare, mentored by <a href="https://muzhou1.github.io/">Dr. Mu Zhou</a> </div> 
+        <div> AI+Healthcare, <b>SenseTime Inc</b></div>
+        <div>Developing ML algorithms for drug sensitivity prediction and novel drug discovery</div>
         <div><b>Research Intern</b></div>
     </div>
 </div>
