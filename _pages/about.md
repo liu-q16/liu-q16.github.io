@@ -31,8 +31,8 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 *{padding:0;margin:0;}
 .media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{width:75px;height:75px;float:left;border:0 solid #ccc}
-.pull-left img{width:75px;height:75px;}
+.pull-left{height:75px;float:left;border:0 solid #ccc}
+.pull-left img{height:75px;}
 .media-body{float:left;width:450px;margin-left:10px;font-size:15px;}
 </style>
 
