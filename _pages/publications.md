@@ -26,7 +26,7 @@ Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Ji
 <i>ISMB/Bioinformatics</i>. 2019, 35(14):i99-i107.(conference acceptance rate:18.9%, Q1)[<a href="https://liu-q16.github.io/publications/hicGAN">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 
 1. <div class="pub">Automatically Structuring on Chinese Ultrasound Report of Cerebrovascular Diseases via Natural Language Processing <br>
-Pengyu Chen<sup>\*</sup>, <b>Qiao Liu</b><sup>\*</sup>, Hairong Lv and Xiaolu Fei.
+Pengyu Chen<sup>*</sup>, <b>Qiao Liu</b><sup>*</sup>, Hairong Lv and Xiaolu Fei.
 <i>IEEE Access</i>. 2019.7: 89043-89050. (Co-first author, Q1)[<a href="https://liu-q16.github.io/publications/CRF">Abstract</a>][<a href="https://liu-q16.github.io/files/CRF.pdf">PDF</a>]</div>
 
 1. <div class="pub">EpiFIT: Functional Interpretation of Transcription Factors based on Combination of Sequence and Epigenetic Information <br>
