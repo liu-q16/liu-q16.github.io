@@ -6,7 +6,7 @@ venue: "ISMB 2019/Bioinformatics"
 date: 2019-7-20
 citation: '<b>Qiao Liu</b>, Hairong Lv, and Rui Jiang. <i>The 27th conference on Intelligent Systems for Molecular Biology</i>. <b>ISMB 2019</b>.'
 ---
-[[Paper]](https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246) [[Code]](https://github.com/kimmo1019/hicGAN) [[Slide]](http://kimmo1019.github.io/files/hicgan_slides.pdf)
+[[Paper](https://academic.oup.com/bioinformatics/article-abstract/35/14/i99/5529246)] [[Code](https://github.com/kimmo1019/hicGAN)][[Slide](http://kimmo1019.github.io/files/hicGAN_slides.pdf)]
 
 
 ## Abstract
