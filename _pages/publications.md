@@ -19,7 +19,7 @@ Publications can also be found at [Google Scholar](https://scholar.google.com/ci
 
 1. <div class="pub">Quantifying Functional Impacts of Regulatory Variants with Multi-task Bayesian Neural Network <br>
 Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang.
-<i>Bioinformatics</i>. 2019. (accepted, Q1)[<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/MtBNN.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
+<i>Bioinformatics</i>. 2019. (Q1)[<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/MtBNN.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
 
 1. <div class="pub">hicGAN Infers Super Resolution Hi-C Data With Generative Adversarial Networks <br>
 <b>Qiao Liu</b>, Hairong Lv, Rui Jiang.
