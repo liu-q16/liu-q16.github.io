@@ -21,7 +21,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <div class="intro">
   <ul>
   <li>2019.09 - I will visit the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.</li>
-  <li>2019.07 - I will give a talk at Basel, Switzerland for ISMB 2019.</li>
+  <li>2019.07 - I will give a invited talk at Basel, Switzerland for ISMB 2019.</li>
   <li>2019.05 - I win the travel fellowship provided by International Society of Computational Biology (ISCB).</li>
   </ul> 
 </div>
