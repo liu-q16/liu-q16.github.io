@@ -134,6 +134,12 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </tr>
 
 
+<tr>
+<td><img class="proj_thumb" src="images/Deopen.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network</div>
+<div class="pub_author"> <b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang </div>
+<div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://liu-q16.github.io/publications/Deopen">Abstract</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
+</td>
 
 
 
