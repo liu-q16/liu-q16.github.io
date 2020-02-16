@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Click to View My Up-to-date [Curriculum Vitae [PDF]](http://liu-q16.github.io/files/liuqiao_cv.pdf)
+Click to View My Up-to-date [Curriculum Vitae [PDF]](http://liu-q16.github.io/files/CV_Qiao_Liu.pdf)
 
 
