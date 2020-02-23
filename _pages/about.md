@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research interests lie in various problems in Biomedical Informatics and Computational Biology. In particular, I am interested in developing machine learning algorithms for interpreting biomedical data and next-generation sequencing (NGS) data.
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers deep learning and its applications in various fields. Currently, I've been trying to solve fundenmental problems in statistics, such as density estimation and Bayesian inference with deep generative models. Prior to that, I also tried to apply deep learning models in the field of biomedical informatics and computational biology, including pharmacology data, biomedical data and next-generation sequencing (NGS) data.
 </div>
 
 ## Recent News
