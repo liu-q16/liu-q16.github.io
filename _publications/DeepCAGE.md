@@ -2,8 +2,6 @@
 title: "Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning" 
 collection: publications
 permalink: /publications/DeepCAGE
-date: 2020-1-26
-citation: '<b>Qiao Liu</b>, Wing Hung Wong, and Rui Jiang. <i>The 24rd International Conference on Research in Computational Molecular Biology</i>. <b>ISMB 2020</b>.'
 ---
 [[Paper](https://www.biorxiv.org/content/10.1101/610642v1)] [[Code](https://github.com/kimmo1019/DeepCAGE)]
 

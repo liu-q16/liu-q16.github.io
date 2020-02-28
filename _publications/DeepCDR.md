@@ -2,8 +2,6 @@
 title: "Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network"
 collection: publications
 permalink: /publications/DeepCDR
-date: 2019-7-20
-citation: '<b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou <i>The 28th conference on Intelligent Systems for Molecular Biology</i>. <b>ISMB 2020</b>.'
 ---
 [[Paper](http://liu-q16.github.io/files/DeepCDR.pdf)] [[Code](https://github.com/kimmo1019/DeepCDR)]
 
