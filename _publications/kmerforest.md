@@ -1,5 +1,5 @@
 ---
-title:"A Sequence-based Method to Predict the Impact of Regulatory Variants Using Random Forest" 
+title: "A Sequence-based Method to Predict the Impact of Regulatory Variants Using Random Forest" 
 collection: publications
 permalink: /publications/kmerforest
 venue: "BMC Systems Biology"

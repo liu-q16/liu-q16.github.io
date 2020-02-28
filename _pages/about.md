@@ -120,7 +120,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Mu Zhou </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
 <div class="pub_journal"><b>ISMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 </td>
 </tr>
@@ -138,7 +138,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><div class="pub_title"> Quantifying Functional Impact of Non-coding Variants With Multi-task Bayesian Neural Network
 </div>
 <div class="pub_author"> Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang </div>
-<div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
+<div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
 </td>
 
 <tr>

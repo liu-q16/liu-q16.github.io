@@ -1,11 +1,12 @@
 ---
-title:"Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network" 
+title: "Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network" 
 collection: publications
 permalink: /publications/Deopen
 venue: "Bioinformatics"
 date: 2017-10-20
 citation: '<b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang. <i>Bioinformatics, 2017</i>.'
 ---
+
 [[Paper](https://academic.oup.com/bioinformatics/article-abstract/34/5/732/4562336)] [[Code](https://github.com/kimmo1019/Deopen)]
 
 
