@@ -11,11 +11,11 @@ Publications can also be found at [Google Scholar](https://scholar.google.com/ci
 
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>RECOMB</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<i>ISMB</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 
 1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network <br>
 <b>Qiao Liu</b>, Zhiqiang Hu and Mu Zhou.
-<i>AAAI</i>. 2020. (under review)[<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<i>ISMB</i>. 2020. (in submission)[<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 
 1. <div class="pub">Quantifying Functional Impacts of Regulatory Variants with Multi-task Bayesian Neural Network <br>
 Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang.
