@@ -64,7 +64,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <span class="pull-left"><img src="images/lund_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
-        <div>Department of Computer Science, Lund University, Lund, Sweden</div> 
+        <div>Department of Computer Science, Lund University, Sweden</div> 
         <div><b>Exchange Student</b></div>
     </div>
 </div>
