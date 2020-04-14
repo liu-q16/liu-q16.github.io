@@ -46,7 +46,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
-        <div>Department of Statistics, <b>Stanford University</b></div> 
+        <div>Department of Statistics, Stanford University, CA, USA</div> 
         <div><b>Visiting Scholar</b></div>
     </div>
 </div>
@@ -55,7 +55,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
-        <div>Department of Automation, <b>Tsinghua University</b></div>
+        <div>Department of Automation, Tsinghua University, Beijing, China</div>
         <div><b>Ph.D. Candidate</b></div>
     </div>
 </div>
@@ -64,7 +64,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <span class="pull-left"><img src="images/lund_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2015 - Jan. 2016</span></div>
-        <div>Department of Computer Science, <b>Lund University</b></div> 
+        <div>Department of Computer Science, Lund University, Lund, Sweden</div> 
         <div><b>Exchange Student</b></div>
     </div>
 </div>
@@ -73,7 +73,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <span class="pull-left"><img src="images/beihang_logo.jpg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Aug. 2012 - Jul. 2016</span></div>
-        <div>ShenYuan Honors College, <b>Beihang University</b></div> 
+        <div>ShenYuan Honors College, Beihang University, Beijing, China</div> 
         <div><b>Bachelor of Engineering</b></div>
     </div>
 </div>
@@ -112,7 +112,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div class="pub_journal"><b>ISMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<div class="pub_journal"><b>bioRxiv</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 </td>
 </tr>
 
@@ -121,7 +121,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>ISMB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<div class="pub_journal"><b>Submitted</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 </td>
 </tr>
 
