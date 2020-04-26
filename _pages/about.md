@@ -109,10 +109,10 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/Roundtrip.png" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Roundtrip: A Deep Generative Neural Density Estimator </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>bioRxiv</b>, 2020 [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+<div class="pub_journal"><b>arxiv</b>, 2020 [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 </td>
 </tr>
 

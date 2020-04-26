@@ -1,7 +1,7 @@
 ---
 title: "Roundtrip: A Deep Generative Neural Density Estimator" 
 collection: publications
-permalink: /publications/DeepCAGE
+permalink: /publications/Roundtrip
 ---
 [[Paper](https://arxiv.org/abs/2004.09017)] [[Code](https://github.com/kimmo1019/Roundtrip)] [[Suppl](https://liu-q16.github.io/files/Roundtrip_suppl.pdf)] 
 
