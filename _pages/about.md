@@ -23,7 +23,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
   <li>2020.06 - One paper is accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
   <li>2020.06 - One paper is accepted to <a href="https://www.miccai2020.org/en/">MICCAI 2020</a>.</li>
   <li>2019.09 - I will visit the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.</li>
-  <li>2019.07 - I will give a invited talk at Basel, Switzerland for ISMB 2019.</li>
+  <li>2019.07 - I will give a invited talk at Basel, Switzerland for <a href="https://www.iscb.org/ismbeccb2019">ISMB 2019</a>.</li>
   <li>2019.05 - I win the travel fellowship provided by International Society of Computational Biology (ISCB).</li>
   </ul> 
 </div>
