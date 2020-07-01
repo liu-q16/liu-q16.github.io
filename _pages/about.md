@@ -13,13 +13,15 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers statistical learning and machine learning algorithms. Currently, I'm advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> to solve several fundenmental problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to many problem in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data. 
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers statistical learning and machine learning algorithms. Currently, I'm advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> to solve several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to many problem in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data. 
 </div>
 
 ## Recent News
 
 <div class="intro">
   <ul>
+  <li>2020.06 - One paper is accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
+  <li>2020.06 - One paper is accepted to <a href="https://www.miccai2020.org/en/">MICCAI 2020</a>.</li>
   <li>2019.09 - I will visit the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.</li>
   <li>2019.07 - I will give a invited talk at Basel, Switzerland for ISMB 2019.</li>
   <li>2019.05 - I win the travel fellowship provided by International Society of Computational Biology (ISCB).</li>
@@ -129,7 +131,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>Submitted</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<div class="pub_journal"><b>ECCB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 </td>
 </tr>
 
