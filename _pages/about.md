@@ -20,8 +20,9 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 <div class="intro">
   <ul>
-  <li>2020.06 - One paper is accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
-  <li>2020.06 - One paper is accepted to <a href="https://www.miccai2020.org/en/">MICCAI 2020</a>.</li>
+  <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
+  <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
+  <li>2020.06 - Our study on gene mutation prediction using histopathological images was accepted to <a href="https://www.miccai2020.org/en/">MICCAI 2020</a>.</li>
   <li>2019.09 - I will visit the Department of Statistics, Stanford University as a Visiting Scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>.</li>
   <li>2019.07 - I will give a invited talk at Basel, Switzerland for <a href="https://www.iscb.org/ismbeccb2019">ISMB 2019</a>.</li>
   <li>2019.05 - I win the travel fellowship provided by International Society of Computational Biology (ISCB).</li>
@@ -131,7 +132,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>ECCB</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 </td>
 </tr>
 
