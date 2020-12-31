@@ -3,13 +3,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN).
 
 <style>
 .pub{font-size:16px;}
 </style>
 
-<h2>Published papers</h2>
+<h3>Manuscripts under review</h3>
+
+1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
+<b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
+<i>bioRxiv</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+
+1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network <br>
+<b>Qiao Liu</b>, Zhiqiang Hu and Mu Zhou.
+<i>Bioinformatics</i>. 2020. (in submission)[<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+
+<h3>Published papers</h3>
 
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
