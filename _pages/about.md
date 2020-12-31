@@ -18,7 +18,11 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 ## Recent News
 
-<div class="intro">
+<style>
+.news{font-size:16px;}
+</style>
+
+<div class="news">
   <ul>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
