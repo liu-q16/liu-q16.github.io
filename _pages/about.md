@@ -112,18 +112,18 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/MNCE-RL.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/MNCE-RL.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Reinforced Molecular Optimization with Neighborhood-Controlled Grammars </div>
 <div class="pub_author">Chencheng Xu, <b>Qiao Liu</b>, Minlie Huang, Tao Jiang </div>
-<div class="pub_journal"><b>NeurIPS</b>, 2020 [<a href="https://liu-q16.github.io/publications/MNCE-RL">Abstract</a>][<a href="https://liu-q16.github.io/files/MNCE-RL.pdf">PDF</a>]</div>
+<div class="pub_journal"><b>NeurIPS</b>, 2020 [<a href="https://liu-q16.github.io/publications/MNCE-RL">Abstract</a>][<a href="https://liu-q16.github.io/files/MNCE-RL.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MNCE-RL">Code</a>]</div>
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/FENet.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/FENet.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Feature-Enhanced Graph Networks for Genetic Mutational Prediction Using Histopathological Images in Colon Cancer </div>
 <div class="pub_author">Kexin Ding, <b>Qiao Liu</b>, Edward Lee, Mu Zhou, Aidong Lu, Shaoting Zhang </div>
-<div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FEBet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
+<div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
 </tr>
 
