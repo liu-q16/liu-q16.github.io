@@ -9,6 +9,8 @@ Publications can also be found at [Google Scholar](https://scholar.google.com/ci
 .pub{font-size:16px;}
 </style>
 
+<h2>Published papers</h2>
+
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
 <i>bioRxiv</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
