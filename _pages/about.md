@@ -112,6 +112,22 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <table class="imgtable">
 
 <tr>
+<td><img class="proj_thumb" src="images/MNCE-RL.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Reinforced Molecular Optimization with Neighborhood-Controlled Grammars </div>
+<div class="pub_author">Chencheng Xu, <b>Qiao Liu</b>, Minlie Huang, Tao Jiang </div>
+<div class="pub_journal"><b>NeurIPS</b>, 2020 [<a href="https://liu-q16.github.io/publications/MNCE-RL">Abstract</a>][<a href="https://liu-q16.github.io/files/MNCE-RL.pdf">PDF</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/FENet.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Feature-Enhanced Graph Networks for Genetic Mutational Prediction Using Histopathological Images in Colon Cancer </div>
+<div class="pub_author">Kexin Ding, <b>Qiao Liu</b>, Edward Lee, Mu Zhou, Aidong Lu, Shaoting Zhang </div>
+<div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FEBet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Roundtrip: A Deep Generative Neural Density Estimator </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
@@ -123,7 +139,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div class="pub_journal"><b>bioRxiv</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 </td>
 </tr>
 
