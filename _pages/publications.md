@@ -10,19 +10,27 @@ author_profile: true
 
 <h3>Manuscripts under review</h3>
 
-1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
-<b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>bioRxiv</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+1. <div class="pub">Simultaneous deep generative modeling and clustering of single cell genomic data<br>
+<b>Qiao Liu</b>, Shengquan Chen, Rui Jiang and Wing Hung Wong.
+<i>Nature Machine Intelligence</i>. 2020. (minor revision) [<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
 
-1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network <br>
-<b>Qiao Liu</b>, Zhiqiang Hu and Mu Zhou.
-<i>Bioinformatics</i>. 2020. (in submission)[<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+1. <div class="pub">Density estimation with deep generatative neural networks <br>
+<b>Qiao Liu</b>, Jiaze Xu, Rui Jiang and Wing Hung Wong.
+<i>Proceedings of the National Academy of Sciences of the United States of America</i>. 2020. (in submission)[<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 
 <h3>Published papers</h3>
 
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>bioRxiv</i>. 2020. (in submission) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<i>Genomics, Proteomics & Bioinformatics</i>. 2020. (accepted) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+
+1. <div class="pub">Reinforced Molecular Optimization with Neighborhood-Controlled Grammars<br>
+Chencheng Xu, <b>Qiao Liu</b>, Minlie Huang, Tao Jiang.
+<i>NeurIPS</i>. 2020. [<a href="https://liu-q16.github.io/publications/MNCE-RL">Abstract</a>][<a href="https://liu-q16.github.io/files/MNCE-RL.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MNCE-RL">Code</a>]</div>
+
+1. <div class="pub">Feature-Enhanced Graph Networks for Genetic Mutational Prediction Using Histopathological Images in Colon Cancer<br>
+Kexin Ding, <b>Qiao Liu</b>, Edward Lee, Mu Zhou, Aidong Lu, Shaoting Zhang.
+<i>MICCAI</i>. 2020. [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 
 1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network <br>
 <b>Qiao Liu</b>, Zhiqiang Hu and Mu Zhou.
@@ -31,6 +39,14 @@ author_profile: true
 1. <div class="pub">Quantifying Functional Impacts of Regulatory Variants with Multi-task Bayesian Neural Network <br>
 Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang.
 <i>Bioinformatics</i>. 2019. (Q1)[<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/MtBNN.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
+
+1. <div class="pub">A Decentralized Systemfor Medical Data Management via Blockchain <br>
+Qingzhu Yang, <b>Qiao Liu</b>, Hairong Lv.
+<i>Journal of Internet Technology</i>. 2020, 21(5): 1335-1345.[<a href="https://liu-q16.github.io/publications/BlockChain">Abstract</a>][<a href="https://liu-q16.github.io/files/BlockChain.pdf">PDF</a>]</div>
+
+1. <div class="pub">Mstree: A Multispecies Coalescent Approach for Estimating Ancestral Population Size and Divergence Time During Speciation with Gene Flow <br>
+Junfeng Liu, <b>Qiao Liu</b>, Qingzhu Yang.
+<i>Genome Biology and Evolution</i>. 2020, 12(5): 715-719[<a href="https://liu-q16.github.io/publications/MStree">Abstract</a>][<a href="https://liu-q16.github.io/files/MStree.pdf">PDF</a>][<a href="https://github.com/liujunfengtop/MStree">Code</a>]</div>
 
 1. <div class="pub">hicGAN Infers Super Resolution Hi-C Data With Generative Adversarial Networks <br>
 <b>Qiao Liu</b>, Hairong Lv, Rui Jiang.
@@ -47,14 +63,6 @@ Shaoming Song, Hongfei Cui, <b>Qiao Liu</b>, Rui Jiang.
 1. <div class="pub">DeepHistone: a Deep Learning Approach to Predicting Histone Modifications] <br>
 Qijin Yin, Mengmeng Wu, <b>Qiao Liu</b>, Rui Jiang.
 <i>BMC Genomics</i>. 2019,20(2):193. (Q2)[<a href="https://liu-q16.github.io/publications/DeepHistone">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepHistone.pdf">PDF</a>][<a href="https://github.com/QijinYin/DeepHistone">Code</a>]</div>
-
-1. <div class="pub">A Decentralized Systemfor Medical Data Management via Blockchain <br>
-Qingzhu Yang, <b>Qiao Liu</b>, Hairong Lv.
-<i>Journal of Internet Technology</i>. 2019(under review)[<a href="https://liu-q16.github.io/publications/BlockChain">Abstract</a>][<a href="https://liu-q16.github.io/files/BlockChain.pdf">PDF</a>]</div>
-
-1. <div class="pub">A Robust Approach for Estimating Parameters During Sepciation with Gene Flow <br>
-Junfeng Liu, <b>Qiao Liu</b>, Qingzhu Yang.
-<i>Bioinformatics</i>. 2019(under review)[<a href="https://liu-q16.github.io/publications/MStree">Abstract</a>][<a href="https://liu-q16.github.io/files/MStree.pdf">PDF</a>][<a href="https://github.com/liujunfengtop/MStree">Code</a>]</div>
 
 1. <div class="pub">Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network <br>
 <b>Qiao Liu</b>, Fei Xia, Qijin Yin, Rui Jiang.
