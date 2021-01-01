@@ -19,7 +19,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 ## Recent News
 
 <style>
-.news{font-size:16px;}
+.news{font-size:17px;}
 </style>
 
 <div class="news">
