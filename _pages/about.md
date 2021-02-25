@@ -24,6 +24,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 <div class="news">
   <ul>
+  <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
   <li>2020.06 - Our study on gene mutation prediction using histopathological images was accepted to <a href="https://www.miccai2020.org/en/">MICCAI 2020</a>.</li>
@@ -61,7 +62,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Aug. 2016 - Present</span></div>
+        <div><span style="font-weight: bold">Aug. 2016 - June. 2021</span></div>
         <div>Department of Automation, Tsinghua University, Beijing, China</div>
         <div><b>Ph.D. Candidate</b></div>
     </div>
@@ -114,6 +115,14 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </style>
 
 <table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/scDEC.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+</td>
+</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/MNCE-RL.png" width="320px" alt=""/>&nbsp;</td>
