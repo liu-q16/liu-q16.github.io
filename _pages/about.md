@@ -24,6 +24,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 <div class="news">
   <ul>
+  <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.nature.com/natmachintell/">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
@@ -117,6 +118,14 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <table class="imgtable">
 
 <tr>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
@@ -140,13 +149,6 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 </td>
 </tr>
 
-<tr>
-<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Roundtrip: A Deep Generative Neural Density Estimator </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>arxiv</b>, 2020 [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
-</td>
-</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
@@ -188,12 +190,6 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 <div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://liu-q16.github.io/publications/Deopen">Abstract</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
 </td>
 
-<tr>
-<td><img class="proj_thumb" src="images/kmerforest.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> A Sequence-based Method to Predict the Impact of Regulatory Variants Using Random Forest</div>
-<div class="pub_author"> <b>Qiao Liu</b>, Mingxin Gan and Rui Jiang </div>
-<div class="pub_journal"><b>BMC Systems Biology</b>, 2017 [<a href="https://liu-q16.github.io/publications/kmerforest">Abstract</a>][<a href="https://liu-q16.github.io/files/kmerforest.pdf">PDF</a>][<a href="https://github.com/kimmo1019/kmerforest">Code</a>]</div>
-</td>
 
 
 
