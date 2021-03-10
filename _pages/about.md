@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers statistical learning and machine learning algorithms. Currently, I'm advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member) to solve several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data. 
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers statistical learning and machine learning algorithms. Currently, I'm a visiting scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member) to solve several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data analysis. 
 </div>
 
 ## Recent News
@@ -24,7 +24,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 <div class="news">
   <ul>
-  <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.nature.com/natmachintell/">PNAS</a>.</li>
+  <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
