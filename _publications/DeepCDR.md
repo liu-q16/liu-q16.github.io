@@ -3,7 +3,7 @@ title: "Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network
 collection: publications
 permalink: /publications/DeepCDR
 ---
-[[Paper](http://liu-q16.github.io/files/DeepCDR.pdf)] [[Code](https://github.com/kimmo1019/DeepCDR)]
+[[Paper](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929)] [[Code](https://github.com/kimmo1019/DeepCDR)]
 
 
 ## Abstract

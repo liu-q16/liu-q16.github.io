@@ -1,9 +1,9 @@
 ---
-title: "Roundtrip: A Deep Generative Neural Density Estimator" 
+title: "Density estimation using deep generative neural networks" 
 collection: publications
 permalink: /publications/Roundtrip
 ---
 [[Paper](https://www.pnas.org/content/118/15/e2101344118)] [[Code](https://github.com/kimmo1019/Roundtrip)] [[Suppl](https://liu-q16.github.io/files/Roundtrip_suppl.pdf)] 
 
 ## Abstract
-Density estimation is a fundamental problem in both statistics and machine learning. We proposed Roundtrip as a universal neural density estimator based on deep generative models. Roundtrip exploits the advantage of GANs for generating samples and estimates density by either importance sampling or Laplace approximation. Unlike prior studies modeling target density by constructing a tractable Jacobian w.r.t to a base density (e.g., Gaussian), Roundtrip learns target density by generating a manifold from a base density to approximate the distribution of observation data. In a series of experiments, Roundtrip achieves state-of-the-art performance in a diverse range of density estimation tasks.
+Density estimation is among the most fundamental problems in statistics. It is notoriously difficult to estimate the density of high-dimensional data due to the “curse of dimensionality.” Here, we introduce a new general-purpose density estimator based on deep generative neural networks. By modeling data normally distributed around a manifold of reduced dimension, we show how the power of bidirectional generative neural networks (e.g., cycleGAN) can be exploited for explicit evaluation of the data density. Simulation and real data experiments suggest that our method is effective in a wide range of problems. This approach should be helpful in many applications where an accurate density estimator is needed.
