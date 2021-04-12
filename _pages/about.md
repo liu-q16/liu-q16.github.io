@@ -24,7 +24,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
 
 <div class="news">
   <ul>
-  <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/">PNAS</a>.</li>
+  <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://eccb2020.info/">ECCB 2020</a>.</li>
