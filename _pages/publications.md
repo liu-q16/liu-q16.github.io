@@ -4,13 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Highlighted papers
+
+
+
 <style>
 .pub{font-size:16px;}
 </style>
 
-
-
-<h3>Published papers</h3>
+<h3>Full list</h3>
 1. <div class="pub">Density estimation using deep generative neural networks <br>
 <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang and Wing Hung Wong.
 <i>Proceedings of the National Academy of Sciences of the United States of America</i>. 2021. [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
