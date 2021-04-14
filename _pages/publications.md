@@ -6,7 +6,7 @@ author_profile: true
 
 ## Highlighted papers
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
