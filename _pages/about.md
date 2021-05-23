@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.stanford.edu/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. My research area mainly covers statistical learning and machine learning algorithms. Currently, I'm a visiting scholar advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member) to solve several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data analysis. 
+I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a> at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, advised by tenured Assoc. Prof. <a href="http://www.au.tsinghua.edu.cn/publish/au/1714/2011/20110419135050094323216/20110419135050094323216_.html">Rui Jiang</a>. I'm also jointly advised by <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member) from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>. My research area mainly covers statistical learning and machine learning algorithms. My current interests aim at solving several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data analysis. 
 </div>
 
 ## Recent News
@@ -56,7 +56,7 @@ I am a Ph.D. student in the <a href="http://www.au.tsinghua.edu.cn/">Department 
     <div class="media-body">
         <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
         <div>Department of Statistics, Stanford University, CA, USA</div> 
-        <div><b>Visiting Scholar</b></div>
+        <div><b>Joint Ph.D. student</b></div>
     </div>
 </div>
 
