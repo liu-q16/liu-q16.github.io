@@ -48,11 +48,19 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
 <h2>Education</h2>
 <a name="education"></a>
 
+<div class="media">
+    <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">June. 2021 - Present</span></div>
+        <div>Department of Statistics, Stanford University, CA, USA</div> 
+        <div><b>Postdoctoral Scholar</b></div>
+    </div>
+</div>
 
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Sep. 2019 - Present</span></div>
+        <div><span style="font-weight: bold">Sep. 2019 - June. 2021</span></div>
         <div>Department of Statistics, Stanford University, CA, USA</div> 
         <div><b>Joint Ph.D. student</b></div>
     </div>
