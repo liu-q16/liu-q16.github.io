@@ -24,6 +24,7 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
 
 <div class="news">
   <ul>
+  <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://proceedings.neurips.cc/paper/2020/hash/5f268dfb0fbef44de0f668a022707b86-Abstract.html">NeurIPS 2020</a>.</li>
@@ -136,6 +137,14 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
 <td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Boost Neural Networks by Checkpoints </div>
+<div class="pub_author"> Feng Wang, Guoyizhe Wei, <b>Qiao Liu</b>, Jinxiang Ou, Xian Wei, Hairong Lv</div>
+<div class="pub_journal"><b>NeurIPS</b>, 2021 [<a href="https://liu-q16.github.io/publications/CBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/CBNN.pdf">PDF</a>]</div>
 </td>
 </tr>
 
