@@ -24,7 +24,7 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
 
 <div class="news">
   <ul>
-  <li>2021.12 - We won the first place in NeurIPS 2021 <a href="https://openproblems.bio/neurips_2021/">Multimodal Single-Cell Data Integration competition</a> Joint Embedding tasks. Invited talk slides can be found <a href="http://liu-q16.github.io/files/nips_competition.pdf">here</a> </li>
+  <li>2021.12 - We won the first place in NeurIPS 2021 <a href="https://openproblems.bio/neurips_2021/">Multimodal Single-Cell Data Integration competition</a> Joint Embedding tasks. Invited talk slides can be found <a href="http://liu-q16.github.io/files/nips_competition.pdf">here</a>. </li>
   <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
