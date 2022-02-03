@@ -28,8 +28,10 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
   <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
   <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
+  </ul>
   <details>
   <summary>More</summary>
+  <ul>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://proceedings.neurips.cc/paper/2020/hash/5f268dfb0fbef44de0f668a022707b86-Abstract.html">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">ECCB 2020</a>.</li>
   <li>2020.06 - Our study on gene mutation prediction using histopathological images was accepted to <a href="https://link.springer.com/chapter/10.1007/978-3-030-59713-9_29">MICCAI 2020</a>.</li>
