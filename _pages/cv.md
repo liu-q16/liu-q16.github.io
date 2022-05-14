@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://liu-q16.github.io/files/CV_Qiao_Liu.pdf) to Download My Up-to-date Curriculum Vitae.
+Click [Here](http://liu-q16.github.io/files/CV_Qiao_Liu.pdf) to Download My Up-to-date Curriculum Vitae.
 
 <object data="http://liu-q16.github.io/files/CV_Qiao_Liu.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://liu-q16.github.io/files/CV_Qiao_Liu.pdf">
