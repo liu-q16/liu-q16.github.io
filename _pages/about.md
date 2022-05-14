@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>. My research area mainly covers statistical learning and machine learning algorithms. My current interests aim at solving several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data analysis.
+I am a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="http://www.au.tsinghua.edu.cn/">Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>. My research area mainly covers statistical learning and machine learning algorithms. My current interests aim at solving several problems in statistics, such as density estimation and Bayesian inference with deep generative models. I'm also interested in applying machine learning algorithms to various problems in biomedical informatics and computational biology, which involves pharmacology data, biomedical data and next-generation sequencing (NGS) data analysis.
 </div>
 
 ## Recent News
@@ -53,9 +53,8 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
-<h2>Education</h2>
-<a name="education"></a>
-
+<h2>Employment</h2>
+<a name="employment"></a>
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
@@ -64,6 +63,9 @@ I am a postdoctoral scholar from <a href="https://statistics.stanford.edu/">Depa
         <div><b>Postdoctoral Scholar</b></div>
     </div>
 </div>
+
+<h2>Education</h2>
+<a name="education"></a>
 
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
