@@ -24,7 +24,7 @@ I am a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a>
 
 <div class="news">
   <ul>
-  <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings 2022 </li>
+  <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings 2022</a>.</li>
   <li>2021.12 - We won the first place in NeurIPS 2021 <a href="https://openproblems.bio/neurips_2021/">Multimodal Single-Cell Data Integration competition</a> two Joint Embedding tasks. </li>
   <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
