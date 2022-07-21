@@ -104,7 +104,7 @@ I am a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a>
     </div>
 </div>
 
-
+<!--
 <h2>Internships</h2>
 <style>
 .media2{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
@@ -121,7 +121,7 @@ I am a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a>
         <div><b>Research Intern</b></div>
     </div>
 </div>
-
+-->
 
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
