@@ -86,7 +86,7 @@ Tianxing Ma, <b>Qiao Liu</b>, Haochen Li, Mu Zhou, Rui Jiang, Xuegong Zhang <br>
 
 1. <div class="pub"> DeepCAGE: incorporating transcription factors in genome-wide prediction of chromatin accessibility <br>
 <b>Qiao Liu</b>, Kui Hua, Xuegong Zhang, Wing Hung Wong, Rui Jiang<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Genomics, Proteomics & Bioinformatics 2022</a>[<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Genomics, Proteomics & Bioinformatics 2022</a> [<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 
 1. <div class="pub"> Boost Neural Networks by Checkpoints <br>
 Feng Wang, Guoyizhe Wei, <b>Qiao Liu</b>, Jinxiang Ou, Xian Wei, Hairong Lv<br>
@@ -98,16 +98,16 @@ Shengquan Chen, <b>Qiao Liu</b>, Xuejian Cui, Rui Jiang<br>
 
 1. <div class="pub">Simultaneous deep generative modeling and clustering of single cell genomic data<br>
 <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang and Wing Hung Wong<br>
-<a href="https://www.nature.com/articles/s42256-021-00333-y">Nature Machine Intelligence 2021</a>[<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+<a href="https://www.nature.com/articles/s42256-021-00333-y">Nature Machine Intelligence 2021</a> [<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
 
 1. <div class="pub">Density estimation using deep generative neural networks <br>
 <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang and Wing Hung Wong<br>
-<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2101344118">Proceedings of the National Academy of Sciences of the United States of America 2021</a>[<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2101344118">Proceedings of the National Academy of Sciences of the United States of America 2021</a> [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 
 
 1. <div class="pub">Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network<br>
 <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou<br>
-<a href="https://academic.oup.com/bioinformatics/article-abstract/36/Supplement_2/i911/6055929">Bioinformatics 2020</a>[<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<a href="https://academic.oup.com/bioinformatics/article-abstract/36/Supplement_2/i911/6055929">Bioinformatics 2020</a> [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 
 1. <div class="pub">Feature-Enhanced Graph Networks for Genetic Mutational Prediction Using Histopathological Images in Colon Cancer<br>
 Kexin Ding, <b>Qiao Liu</b>, Edward Lee, Mu Zhou, Aidong Lu, Shaoting Zhang<br>
