@@ -52,6 +52,11 @@ author_profile: true
 </style>
 
 ## Full List
+1. <div class="pub">Deep generative modeling and clustering of single cell Hi-C data <br>
+<b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">bioRxiv, 2022</a></div>
+
+
 1. <div class="pub">Density estimation using deep generative neural networks <br>
 <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang and Wing Hung Wong.
 <i>Proceedings of the National Academy of Sciences of the United States of America</i>. 2021. [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
@@ -62,7 +67,7 @@ author_profile: true
 
 1. <div class="pub">Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning<br>
 <b>Qiao Liu</b>, Wing Hung Wong and Rui Jiang.
-<i>Genomics, Proteomics & Bioinformatics</i>. 2021. (accepted) [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<i>Genomics, Proteomics & Bioinformatics</i>. 2021. [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 
 1. <div class="pub">Reinforced Molecular Optimization with Neighborhood-Controlled Grammars<br>
 Chencheng Xu, <b>Qiao Liu</b>, Minlie Huang, Tao Jiang.
