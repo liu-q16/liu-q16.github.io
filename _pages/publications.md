@@ -53,8 +53,8 @@ author_profile: true
 
 ## Full List
 1. <div class="pub">Deep generative modeling and clustering of single cell Hi-C data <br>
-<b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">bioRxiv, 2022</a></div>
+<b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang <br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">bioRxiv 2022</a></div>
 
 
 1. <div class="pub">Density estimation using deep generative neural networks <br>
