@@ -13,8 +13,8 @@
   description: We proposed scDEC, a computational tool for single cell data analysis with deep generative neural networks. scDEC is built on a pair of generative adversarial networks (GANs), and is capable of learning the latent representation and inferring the cell labels, simultaneously. 
   authors: Qiao Liu, Shengquan Chen, Rui Jiang, Wing Hung Wong
   link:
-    url: https://www.biorxiv.org/content/10.1101/2020.08.17.254730v1.abstract
-    display: Nat. Mach. Intell, 2021 (In press)
+    url: https://www.nature.com/articles/s42256-021-00333-y
+    display: Nat. Mach. Intell, 2021 
   highlight: 1
 
 - title: "Cancer drug response prediction via a hybrid graph convolutional network"
@@ -25,7 +25,7 @@
     url: https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929
     display: Bioinformatics, 2021, 36(S2):i911–i918
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="https://eccb2020.info/">Presented work at ECCB2020</a>
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://eccb2020.info/">Invited presentation at ECCB2020</a>
 
 - title: "hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks"
   image: hicGAN.png
@@ -35,5 +35,5 @@
     url: https://academic.oup.com/bioinformatics/article/35/14/i99/5529246
     display:  Bioinformatics, 2019, 35(14):i99–i107
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php">Presented work at ISMB2019</a>
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php">Invited presentation at ISMB2019</a>
 
