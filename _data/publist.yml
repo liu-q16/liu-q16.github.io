@@ -4,7 +4,7 @@
   authors: Qiao Liu, Jiaze Xu, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.pnas.org/content/118/15/e2101344118
-    display:  Proc. Natl. Acad. Sci. U.S.A, 2021, 18(15):e2101344118
+    display:  Proceedings of the National Academy of Sciences (PNAS), 2021, 18(15):e2101344118
   highlight: 1
   news2:
 
@@ -14,7 +14,7 @@
   authors: Qiao Liu, Shengquan Chen, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.nature.com/articles/s42256-021-00333-y
-    display: Nat. Mach. Intell, 2021 
+    display: Nature Machine Intelligence, 2021, 3(6):536-544.
   highlight: 1
 
 - title: "Cancer drug response prediction via a hybrid graph convolutional network"
