@@ -80,9 +80,9 @@ I am a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a>
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Aug. 2016 - June. 2021</span></div>
+        <div><span style="font-weight: bold">Aug. 2016 - Sep. 2019</span></div>
         <div>Department of Automation, Tsinghua University, Beijing, China</div>
-        <div><b>Doctor of Philosophy</b></div>
+        <div><b>Ph.D. Candidate</b></div>
     </div>
 </div>
 
