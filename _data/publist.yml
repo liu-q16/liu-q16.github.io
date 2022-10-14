@@ -1,10 +1,10 @@
 - title: "HiChIPdb: a comprehensive database of HiChIP regulatory interactions"
-  image: HiChIPdb.png
+  image: HiChIPdb.jpg
   description: To facilitate the studies of 3D regulatory interactions, we developed a HiChIP interactions database, HiChIPdb (http://health.tsinghua.edu.cn/hichipdb/). The current version of HiChIPdb contains ∼262M annotated HiChIP interactions from 200 high-throughput HiChIP samples across 108 cell types.
   authors: Wanwen Zeng*,Qiao Liu*, Qijin Yin*, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.nature.com/articles/s42256-021-00333-y
-    display: Nature Machine Intelligence, 2021, 3(6):536-544.
+    display: Nucleic Acids Research, 2022.
   highlight: 1
   news2:
 
