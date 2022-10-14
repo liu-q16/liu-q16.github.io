@@ -24,8 +24,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="news">
   <ul>
-  <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar">Nucleic Acids Research</a>.</li>
-  <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings 2022</a>.</li>
+  <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Nucleic Acids Research</a>.</li>
+  <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings (JSM) 2022</a>.</li>
   <li>2021.12 - We won the first place in NeurIPS 2021 <a href="https://openproblems.bio/neurips_2021/">Multimodal Single-Cell Data Integration competition</a> two Joint Embedding tasks. </li>
   <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
@@ -136,10 +136,26 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <table class="imgtable">
 
 <tr>
+<td><img class="proj_thumb" src="images/HiChIPdb.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
+<div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
+</td>
+</tr>
+
+<!-- <tr>
+<td><img class="proj_thumb" src="images/OpenAnnotate.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> OpenAnnotate: a web server to annotate the chromatin accessibility of genomic regions </div>
+<div class="pub_author"> Shenquan Cheng,<b>Qiao Liu</b>, Xuejian Cui, Rui Jiang </div>
+<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/openannotate/">Server Link</a>][<a href="https://academic.oup.com/nar/article/49/W1/W483/6276912">Paper</a>]</div>
+</td>
+</tr> -->
+
+<tr>
 <td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://liu-q16.github.io/publications/Roundtrip">Abstract</a>][<a href="https://liu-q16.github.io/files/Roundtrip.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 </td>
 </tr>
 
@@ -147,40 +163,38 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://liu-q16.github.io/publications/scDEC">Abstract</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Boost Neural Networks by Checkpoints </div>
 <div class="pub_author"> Feng Wang, Guoyizhe Wei, <b>Qiao Liu</b>, Jinxiang Ou, Xian Wei, Hairong Lv</div>
 <div class="pub_journal"><b>NeurIPS</b>, 2021 [<a href="https://liu-q16.github.io/publications/CBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/CBNN.pdf">PDF</a>]</div>
 </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td><img class="proj_thumb" src="images/MNCE-RL.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Reinforced Molecular Optimization with Neighborhood-Controlled Grammars </div>
 <div class="pub_author">Chencheng Xu, <b>Qiao Liu</b>, Minlie Huang, Tao Jiang </div>
 <div class="pub_journal"><b>NeurIPS</b>, 2020 [<a href="https://liu-q16.github.io/publications/MNCE-RL">Abstract</a>][<a href="https://liu-q16.github.io/files/MNCE-RL.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MNCE-RL">Code</a>]</div>
 </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td><img class="proj_thumb" src="images/FENet.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Feature-Enhanced Graph Networks for Genetic Mutational Prediction Using Histopathological Images in Colon Cancer </div>
 <div class="pub_author">Kexin Ding, <b>Qiao Liu</b>, Edward Lee, Mu Zhou, Aidong Lu, Shaoting Zhang </div>
 <div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
-</tr>
-
-
+</tr> -->
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCAGE">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCAGE.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+<div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Paper</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 </td>
 </tr>
 
@@ -189,7 +203,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://liu-q16.github.io/publications/DeepCDR">Abstract</a>][<a href="https://liu-q16.github.io/files/DeepCDR.pdf">PDF</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">Paper</a>][<a href="https://liu-q16.github.io/files/DeepCDR_slides.pdf">ECCB talk slides</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
 </td>
 </tr>
 
@@ -197,24 +211,25 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
-<div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/hicGAN">Abstract</a>][<a href="https://liu-q16.github.io/files/hicGAN.pdf">PDF</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
+<div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">Paper</a>][<a href="https://liu-q16.github.io/files/hicGAN_slides.pdf">ISMB talk slides</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td><img class="proj_thumb" src="images/mtbnn.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Quantifying Functional Impact of Non-coding Variants With Multi-task Bayesian Neural Network
 </div>
 <div class="pub_author"> Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang </div>
 <div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
-</td>
+</td> -->
 
 <tr>
 <td><img class="proj_thumb" src="images/Deopen.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang </div>
-<div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://liu-q16.github.io/publications/Deopen">Abstract</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
+<div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://academic.oup.com/bioinformatics/article/34/5/732/4562336">Paper</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
 </td>
+
 
 
 
