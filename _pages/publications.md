@@ -6,7 +6,7 @@ author_profile: true
 
 ## Selected papers
 
-(For a full list see [below](#Preprints) or go to [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN))
+(For a full list see [below](##Preprints) or go to [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
