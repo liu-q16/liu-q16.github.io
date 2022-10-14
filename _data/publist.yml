@@ -6,6 +6,7 @@
     url: https://www.nature.com/articles/s42256-021-00333-y
     display: Nature Machine Intelligence, 2021, 3(6):536-544.
   highlight: 1
+  news2:
 
 - title: "Density estimation using deep generative neural networks"
   image: Roundtrip.jpg
@@ -25,6 +26,7 @@
     url: https://www.nature.com/articles/s42256-021-00333-y
     display: Nature Machine Intelligence, 2021, 3(6):536-544.
   highlight: 1
+  news2:
 
 - title: "Cancer drug response prediction via a hybrid graph convolutional network"
   image: DeepCDR.png
@@ -35,6 +37,7 @@
     display: Bioinformatics, 2021, 36(S2):i911–i918
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="https://eccb2020.info/">Invited presentation at ECCB2020</a>
+  news2:
 
 - title: "hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks"
   image: hicGAN.png
@@ -45,4 +48,4 @@
     display:  Bioinformatics, 2019, 35(14):i99–i107
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php">Invited presentation at ISMB2019</a>
-
+  news2:
