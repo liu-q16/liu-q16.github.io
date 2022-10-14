@@ -1,3 +1,12 @@
+- title: "HiChIPdb: a comprehensive database of HiChIP regulatory interactions"
+  image: HiChIPdb.png
+  description: To facilitate the studies of 3D regulatory interactions, we developed a HiChIP interactions database, HiChIPdb (http://health.tsinghua.edu.cn/hichipdb/). The current version of HiChIPdb contains ∼262M annotated HiChIP interactions from 200 high-throughput HiChIP samples across 108 cell types.
+  authors: Wanwen Zeng*,Qiao Liu*, Qijin Yin*, Rui Jiang, Wing Hung Wong
+  link:
+    url: https://www.nature.com/articles/s42256-021-00333-y
+    display: Nature Machine Intelligence, 2021, 3(6):536-544.
+  highlight: 1
+
 - title: "Density estimation using deep generative neural networks"
   image: Roundtrip.jpg
   description: We introduce a new general-purpose density estimator based on deep generative neural networks. By modeling data normally distributed around a manifold of reduced dimension, we show how the power of bidirectional generative neural networks (e.g., cycleGAN) can be exploited for explicit evaluation of the data density.
