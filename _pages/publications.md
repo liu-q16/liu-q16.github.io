@@ -67,7 +67,7 @@ Shuang Zhang, Yuti Liu, Shuang Chen, <b>Qiao Liu</b>, Wanwen Zeng <br>
 
 1. <div class="pub">Graph Convolutional Networks for Multi-modality Medical Imaging: Methods, Architectures, and Clinical Applications <br>
 Kexin Ding, Mu Zhou, Zichen Wang, <b>Qiao Liu</b>, Corey W. Arnold, Shaoting Zhang, Dimitri N. Metaxas <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2">bioRxiv 2022</a></div>
+<a href="https://arxiv.org/abs/2202.08916">arXiv 2022</a></div>
 
 1. <div class="pub">Mutual Information Learned Regressor: an Information-theoretic Viewpoint of Training Regression Systems <br>
 Jirong Yi, Qiaosheng Zhang, Zhen Chen, <b>Qiao Liu</b>, Yaohua Wang <br>
