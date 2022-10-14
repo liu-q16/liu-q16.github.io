@@ -136,7 +136,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/HiChIPdb.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
 <div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
