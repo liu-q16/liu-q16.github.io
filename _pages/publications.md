@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Highlighted papers
+## Selected papers
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN))
 
@@ -51,7 +51,8 @@ author_profile: true
 .pub{font-size:16px;}
 </style>
 
-## Full List
+## Preprints
+
 1. <div class="pub">Deep generative modeling and clustering of single cell Hi-C data <br>
 <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang <br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">bioRxiv 2022</a></div>
@@ -60,13 +61,23 @@ author_profile: true
 Qijin Yin, Xusheng Cao, Rui Fan, <b>Qiao Liu*</b>, Rui Jiang*, Wanwen Zeng* <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2">bioRxiv 2022</a></div>
 
+1. <div class="pub">Applications of Transformer-based Language Models in Bioinformatics: A Survey <br>
+Shuang Zhang, Yuti Liu, Shuang Chen, <b>Qiao Liu</b>, Wanwen Zeng <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2">bioRxiv 2022</a></div>
+
 1. <div class="pub">Graph Convolutional Networks for Multi-modality Medical Imaging: Methods, Architectures, and Clinical Applications <br>
 Kexin Ding, Mu Zhou, Zichen Wang, <b>Qiao Liu</b>, Corey W. Arnold, Shaoting Zhang, Dimitri N. Metaxas <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2">bioRxiv 2022</a></div>
 
+1. <div class="pub">Mutual Information Learned Regressor: an Information-theoretic Viewpoint of Training Regression Systems <br>
+Jirong Yi, Qiaosheng Zhang, Zhen Chen, <b>Qiao Liu</b>, Yaohua Wang <br>
+Under submission</div>
+
+## Peer-reviewed papers
+
 1. <div class="pub">Multimodal single cell data integration challenge: results and lessons learned <br>
 Christopher Lance, Malte D Luecken, Daniel B Burkhardt,..., <b>Qiao Liu</b>,...,Fabian J Theis <br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract">bioRxiv 2022</a></div>
+<a href="https://proceedings.mlr.press/v176/lance22a.html">Proceedings of Machine Learning Research (JMLR) 2022</a></div>
 
 1. <div class="pub"> Regulatory analysis of single cell multiome gene expression and chromatin accessibility data with scREG <br>
 Zhana Duren, Fengge Chang, Fnu Naqing, Jingxue Xin, <b>Qiao Liu</b>, Wing Hung Wong <br>
