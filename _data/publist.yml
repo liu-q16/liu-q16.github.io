@@ -1,6 +1,6 @@
 - title: "HiChIPdb: a comprehensive database of HiChIP regulatory interactions"
   image: HiChIPdb.jpg
-  description: To facilitate the studies of 3D regulatory interactions, we developed a HiChIP interactions database, HiChIPdb (http://health.tsinghua.edu.cn/hichipdb/). The current version of HiChIPdb contains around 262M annotated HiChIP interactions from 200 high-throughput HiChIP samples across 108 cell types. We believe this database has the potential to remove the barrier in HiChIP data aggregation, preprocessing, and analysis.
+  description: To facilitate the studies of 3D regulatory interactions, we developed a HiChIP interactions database, HiChIPdb (http://health.tsinghua.edu.cn/hichipdb/). The current version of HiChIPdb contains around 262M annotated HiChIP interactions from 200 high-throughput HiChIP samples across 108 cell types. This database has the potential to remove the barrier in HiChIP data aggregation, preprocessing, and analysis.
   authors: Wanwen Zeng*,Qiao Liu*, Qijin Yin*, Rui Jiang, Wing Hung Wong
   link:
     url: https://www.nature.com/articles/s42256-021-00333-y
@@ -58,7 +58,6 @@
     display:  Bioinformatics, 2019, 35(14):i99–i107
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php">Invited presentation at ISMB2019</a>
-  news2:
 
 - title: "Chromatin accessibility prediction via a hybrid deep convolutional neural network"
   image: Deopen.png
@@ -68,4 +67,3 @@
     url: https://academic.oup.com/bioinformatics/article-abstract/34/5/732/4562336
     display:  Bioinformatics, 2018, 34(5):732-738.
   highlight: 1
-  news2:
