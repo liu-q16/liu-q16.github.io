@@ -24,17 +24,18 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="news">
   <ul>
+  <li>2022.09 - Our study on single cell Hi-C data clustering was accepted to <a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Briefings in Bioinformatics</a>.</li>
   <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Nucleic Acids Research</a>.</li>
   <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings (JSM) 2022</a>.</li>
   <li>2021.12 - We won the first place in NeurIPS 2021 <a href="https://openproblems.bio/neurips_2021/">Multimodal Single-Cell Data Integration competition</a> two Joint Embedding tasks. </li>
   <li>2021.09 - Our study on neural network boosting was accepted to <a href="https://papers.nips.cc/paper/2021/file/a40511cad8383e5ae8ddd8b855d135da-Paper.pdf">NeurIPS 2021</a>.</li>
   <li>2021.03 - Our study on neural density estimation was accepted to <a href="https://www.pnas.org/content/118/15/e2101344118">PNAS</a>.</li>
-  <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   </ul>
 <details>
 <summary>More</summary>
 <div>
   <ul>
+  <li>2021.02 - Our study on single cell analysis with deep generative models was accepted to <a href="https://www.nature.com/natmachintell/">Nature Machine Intelligence</a>.</li>
   <li>2020.09 - Our study on molecule optimization with reinforcement learning was accepted to <a href="https://proceedings.neurips.cc/paper/2020/hash/5f268dfb0fbef44de0f668a022707b86-Abstract.html">NeurIPS 2020</a>.</li>
   <li>2020.06 - Our study on drug sensitivity prediction with graph neural network was accepted to <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">ECCB 2020</a>.</li>
   <li>2020.06 - Our study on gene mutation prediction using histopathological images was accepted to <a href="https://link.springer.com/chapter/10.1007/978-3-030-59713-9_29">MICCAI 2020</a>.</li>

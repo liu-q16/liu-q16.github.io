@@ -54,10 +54,6 @@ author_profile: true
 
 ## Preprints
 
-1. <div class="pub">Deep generative modeling and clustering of single cell Hi-C data <br>
-<b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang <br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">bioRxiv 2022</a></div>
-
 1. <div class="pub">DeepDrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction <br>
 Qijin Yin, Xusheng Cao, Rui Fan, <b>Qiao Liu*</b>, Rui Jiang*, Wanwen Zeng* <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2">bioRxiv 2022</a></div>
@@ -75,6 +71,10 @@ Jirong Yi, Qiaosheng Zhang, Zhen Chen, <b>Qiao Liu</b>, Yaohua Wang <br>
 Under submission</div>
 
 ## Peer-reviewed papers
+
+1. <div class="pub">Deep generative modeling and clustering of single cell Hi-C data <br>
+<b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou and Shaoting Zhang <br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1">Briefings in Bioinformatics 2022 (accepted)</a></div>
 
 1. <div class="pub">Multimodal single cell data integration challenge: results and lessons learned <br>
 Christopher Lance, Malte D Luecken, Daniel B Burkhardt,..., <b>Qiao Liu</b>,...,Fabian J Theis <br>
