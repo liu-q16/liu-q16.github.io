@@ -137,6 +137,14 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <table class="imgtable">
 
 <tr>
+<td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
+<div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
 <div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
