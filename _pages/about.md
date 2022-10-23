@@ -56,7 +56,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
-<h2>Employment</h2>
+<h2>Academic Appointment</h2>
 <a name="employment"></a>
 <div class="media">
     <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
