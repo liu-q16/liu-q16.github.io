@@ -126,17 +126,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 -->
 
-<style>        
-    .subtitle{            
-        width: 300px;            
-        height: 300px;           
-        background-color: #ccc;            
-        display: flex;            
-        display: -webkit-flex;            
-        justify-content: center;            
-        align-items: center;        
-    }          
-</style>
 
 
 <a id="publications" class="anchor"></a>
@@ -146,14 +135,21 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_title{font-size:16px;}
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
+.subtitle{ 
+    font-size:16px;           
+    width: 300px;            
+    height: 300px;           
+    background-color: #ccc;            
+    display: flex;            
+    display: -webkit-flex;            
+    justify-content: center;            
+    align-items: center;        
+} 
 </style>
-
-<table class="imgtable">
-
 
 <div class="subtitle"> <b>- Generative models in Statistics -</b>       
 </div>
-
+<table class="imgtable">
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
