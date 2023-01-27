@@ -137,7 +137,9 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <table class="imgtable">
 
-### Generative models in Statistics
+<tr>
+<td><div class="pub_title"> Generative models in Statistics </div></td>
+</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
