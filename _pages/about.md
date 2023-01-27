@@ -146,13 +146,13 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 } 
 </style>
 
+<table class="imgtable">
+
 <tr>
-<td><div class="subtitle"> <b>- Generative models in Statistics -</b>       
-</div>
+<td><div class="subtitle"> <b>- Generative models in Statistics -</b></div>
 </td>
 </tr>
 
-<table class="imgtable">
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
@@ -169,9 +169,10 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-
-<div class="subtitle"> <b>- Generative models in computational biology -</b>       
-</div>
+<tr>
+<td><div class="subtitle"> <b>- Generative models in computational biology -</b></div>
+</td>
+</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
@@ -240,9 +241,10 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
 </td> -->
 
-
-<div class="subtitle"> <b>- Others -</b>       
-</div>
+<tr>
+<td><div class="subtitle"> <b>- Others -</b></div>
+</td>
+</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
