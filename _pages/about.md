@@ -144,7 +144,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </style>
 
 <div class="media">
-    <span class="pull-left"><img src="images/CausalEGM.png" width="320px"/></span>
+    <span class="pull-left"><img src="images/CausalEGM.png" width="320px" height="200px"/></span>
     <div class="media-body">
         <div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
@@ -153,7 +153,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/Roundtrip.jpg" width="320px"/></span>
+    <span class="pull-left"><img src="images/Roundtrip.jpg" width="320px" height="200px"/></span>
     <div class="media-body">
         <div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
