@@ -143,8 +143,10 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 } 
 </style>
 
+<div class="subtitle"> <b>- Generative models in Statistics -</b></div>
+
 <div class="media">
-    <span class="pull-left"><img src="images/CausalEGM.png" width="320px" height="200px"/></span>
+    <span class="pull-left"><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/></span>
     <div class="media-body">
         <div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
@@ -153,7 +155,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/Roundtrip.jpg" width="320px" height="200px"/></span>
+    <span class="pull-left"><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/></span>
     <div class="media-body">
         <div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
@@ -161,41 +163,26 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
     </div>
 </div>
 
-<table class="imgtable">
 
-<tr>
-<td><div class="subtitle"> <b>- Generative models in Statistics -</b></div>
-</td>
-</tr>
+<div class="subtitle"> <b>- Generative models in computational biology -</b></div>
 
-<tr>
-<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
-<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>]</div>
-</td>
-</tr>
+<div class="media">
+    <span class="pull-left"><img src="images/scDEC-Hi-C.png" width="320px" height="200px"/></span>
+    <div class="media-body">
+        <div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
+        <div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
+        <div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://academic.oup.com/bib/article/24/1/bbac494/6858951">Paper</a>]</div>
+    </div>
+</div>
 
-<tr>
-<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><div class="subtitle"> <b>- Generative models in computational biology -</b></div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
-<div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Paper</a>]</div>
-</td>
-</tr>
+<div class="media">
+    <span class="pull-left"><img src="images/scDEC.png" width="320px" height="200px"/></span>
+    <div class="media-body">
+        <div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
+        <div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
+        <div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://academic.oup.com/bib/article/24/1/bbac494/6858951">Paper</a>]</div>
+    </div>
+</div>
 
 
 <tr>
