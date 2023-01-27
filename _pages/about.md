@@ -137,9 +137,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_journal{font-size:16px;}
 .subtitle{ 
     font-size:16px;           
-    width: 300px;            
-    height: 300px;           
-    background-color: #ccc;            
+    width: 900px;            
+    height: 100px;                      
     display: flex;            
     display: -webkit-flex;            
     justify-content: center;            
@@ -147,8 +146,12 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 } 
 </style>
 
-<div class="subtitle"> <b>- Generative models in Statistics -</b>       
+<tr>
+<td><div class="subtitle"> <b>- Generative models in Statistics -</b>       
 </div>
+</td>
+</tr>
+
 <table class="imgtable">
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
