@@ -137,7 +137,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_journal{font-size:16px;}
 .subtitle{ 
     font-size:16px;           
-    width: 300px;                                           
+    width: 1000px;                                           
     justify-content: center;            
     align-items: center;        
 } 
@@ -146,7 +146,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="subtitle"> <b>- Generative models in Statistics -</b></div>
 
 <div class="media">
-    <span class="pull-left"><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/></span>
+    <span class="pull-left"><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</span>
     <div class="media-body">
         <div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
@@ -155,7 +155,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 
 <div class="media">
-    <span class="pull-left"><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/></span>
+    <span class="pull-left"><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</span>
     <div class="media-body">
         <div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
         <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
@@ -185,13 +185,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 
 
-<tr>
-<td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
-</td>
-</tr>
 <!-- <tr>
 <td><img class="proj_thumb" src="images/OpenAnnotate.jpg" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> OpenAnnotate: a web server to annotate the chromatin accessibility of genomic regions </div>
