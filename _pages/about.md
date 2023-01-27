@@ -137,14 +137,13 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <table class="imgtable">
 
-<a id="publications" class="anchor"></a>
-<h3>Generative models in Statistics</h3>
+### Generative models in Statistics
 
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
-<div class="pub_journal"><b>arXiv</b>, 2023 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>]</div>
+<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>]</div>
 </td>
 </tr>
 
@@ -156,8 +155,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-<a id="publications" class="anchor"></a>
-<h3>Generative models in computational biology</h3>
+
+### Generative models in computational biology
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
@@ -227,8 +226,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td> -->
 
 
-<a id="publications" class="anchor"></a>
-<h3>Others</h3>
+
+### Others
 <tr>
 <td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
