@@ -126,6 +126,19 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </div>
 -->
 
+<style>        
+    .subtitle{            
+        width: 300px;            
+        height: 300px;           
+        background-color: #ccc;            
+        display: flex;            
+        display: -webkit-flex;            
+        justify-content: center;            
+        align-items: center;        
+    }          
+</style>
+
+
 <a id="publications" class="anchor"></a>
 <h2>Selected Publications</h2>
 
@@ -137,9 +150,9 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <table class="imgtable">
 
-<tr>
-<td><div class="pub_title"> <b>Generative models in Statistics</b> </div></td>
-</tr>
+
+<div class="subtitle"> <b>- Generative models in Statistics -</b>       
+</div>
 
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
@@ -158,9 +171,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </tr>
 
 
-<tr>
-<td><div class="pub_title"> <b>Generative models in computational biology</b> </div></td>
-</tr>
+<div class="subtitle"> <b>- Generative models in computational biology -</b>       
+</div>
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
@@ -229,9 +241,9 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
 </td> -->
 
-<tr>
-<td><div class="pub_title"> <b>Others</b> </div></td>
-</tr>
+
+<div class="subtitle"> <b>- Others -</b>       
+</div>
 
 <tr>
 <td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
