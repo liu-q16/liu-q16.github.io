@@ -137,7 +137,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <table class="imgtable">
 
-<h4>Generative models in Statistics</h4>
+<a id="publications" class="anchor"></a>
+<h3>Generative models in Statistics</h3>
 
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
@@ -155,8 +156,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-
-<h4>Generative models in computational biology</h4>
+<a id="publications" class="anchor"></a>
+<h3>Generative models in computational biology</h3>
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
@@ -226,8 +227,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td> -->
 
 
-
-<h4>Others</h4>
+<a id="publications" class="anchor"></a>
+<h3>Others</h3>
 <tr>
 <td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
