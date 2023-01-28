@@ -136,7 +136,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
 .subtitle{ 
-    font-size:17px;           
+    font-size:27px;           
     width: 700px;  
     height: 50px; 
     text-align:center     
@@ -154,36 +154,24 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
     </div>
 </div>
 
-<div class="media">
-    <span class="pull-left"><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px"/></span>
-    <div class="media-body">
-        <div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
-        <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-        <div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
-    </div>
-</div>
 
+<table class="imgtable">
 
-<div class="subtitle"> <b>- Generative models in computational biology -</b></div>
+<tr>
+<td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
+<div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Paper</a>]</div>
+</td>
+</tr>
 
-<div class="media">
-    <span class="pull-left"><img src="images/scDEC-Hi-C.png" width="320px" height="200px"/></span>
-    <div class="media-body">
-        <div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
-        <div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
-        <div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://academic.oup.com/bib/article/24/1/bbac494/6858951">Paper</a>]</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/scDEC.png" width="320px" height="200px"/></span>
-    <div class="media-body">
-        <div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
-        <div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
-        <div class="pub_journal"><b>Briefings in Bioinformatics</b>, 2022 [<a href="https://academic.oup.com/bib/article/24/1/bbac494/6858951">Paper</a>]</div>
-    </div>
-</div>
-
+<tr>
+<td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
+<div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
+</td>
+</tr>
 
 <!-- <tr>
 <td><img class="proj_thumb" src="images/OpenAnnotate.jpg" width="320px" alt=""/>&nbsp;</td>
@@ -193,7 +181,21 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr> -->
 
+<tr>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+</td>
+</tr>
 
+<tr>
+<td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+</td>
+</tr>
 
 <!-- <tr>
 <td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
@@ -218,8 +220,22 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
 </tr> -->
+<tr>
+<td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
+<div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Paper</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
+</td>
+</tr>
 
-<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
+<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">Paper</a>][<a href="https://liu-q16.github.io/files/DeepCDR_slides.pdf">ECCB talk slides</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+</td>
+</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
@@ -236,35 +252,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_author"> Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang </div>
 <div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
 </td> -->
-
-<tr>
-<td><div class="subtitle"> <b>- Others -</b></div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
-<div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">Paper</a>][<a href="https://liu-q16.github.io/files/DeepCDR_slides.pdf">ECCB talk slides</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
-<div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Paper</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
-</td>
-</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/Deopen.png" width="320px" alt=""/>&nbsp;</td>
