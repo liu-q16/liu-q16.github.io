@@ -136,8 +136,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
 .subtitle{ 
-    font-size:15px;           
-    width: 1200px;   
+    font-size:17px;           
+    width: 700px;   
     text-align:center     
 } 
 </style>
