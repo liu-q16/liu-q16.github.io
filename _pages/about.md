@@ -136,7 +136,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
 .subtitle{ 
-    font-size:27px;           
+    font-size:17px;           
     width: 700px;  
     height: 50px; 
     text-align:center     
@@ -219,6 +219,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr> -->
 
+<table class="imgtable">
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
