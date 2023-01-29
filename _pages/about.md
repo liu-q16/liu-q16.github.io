@@ -132,7 +132,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <h2>Selected Publications</h2>
 
 <style>
-.pub_title{font-size:16px;}
+.pub_title{font-size:26px;}
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
 .subtitle{ 
@@ -163,7 +163,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 </td>
 </tr>
-</table>
+<!--/table>
 
 <div class="subtitle"> <i><b>- Generative models in computational biology -</b></i></div>
 
@@ -203,7 +203,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-<!--/table>
+</table>
 <!-- <tr>
 <td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Boost Neural Networks by Checkpoints </div>
