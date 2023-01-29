@@ -137,22 +137,14 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_journal{font-size:16px;}
 .subtitle{ 
     font-size:16px;           
-    width: 700px;  
+    width: 800px;  
     height: 50px; 
     text-align:center     
 } 
 </style>
 
-<div class="subtitle"> <b>- Generative models in Statistics -</b></div>
+<div class="subtitle"> <i><b>- Generative models in Statistics -</b></i></div>
 
-<div class="media">
-    <span class="pull-left"><img class="proj_thumb" src="images/CausalEGM.png" width="300px" height="300px"/></span>
-    <div class="media-body">
-        <div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
-        <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong </div>
-        <div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>]</div>
-    </div>
-</div>
 
 <table class="imgtable">
 
@@ -164,6 +156,16 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
+<tr>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+</td>
+</tr>
+
+<div class="subtitle"> <i><b>- Generative models in computational biology -</b></i></div>
+
 <table class="imgtable">
 
 <tr>
@@ -174,13 +176,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-<tr>
-<td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
-<div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
-</td>
-</tr>
 
 <!-- <tr>
 <td><img class="proj_thumb" src="images/OpenAnnotate.jpg" width="320px" alt=""/>&nbsp;</td>
@@ -190,19 +185,20 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr> -->
 
-<tr>
-<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
-</td>
-</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
+<div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
+<div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">Paper</a>][<a href="https://liu-q16.github.io/files/hicGAN_slides.pdf">ISMB talk slides</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 </td>
 </tr>
 
@@ -229,6 +225,18 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
 </tr> -->
+<div class="subtitle"> <i><b>- Others -</b></i></div>
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/HiChIPdb.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiChIPdb: a comprehensive database of HiChIP regulatory interactions </div>
+<div class="pub_author"> Wanwen Zeng*,<b>Qiao Liu*</b>, Qijin Yin*, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/hichipdb/">Database Link</a>][<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Paper</a>]</div>
+</td>
+</tr>
+
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
@@ -246,13 +254,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-<tr>
-<td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
-<div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
-<div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">Paper</a>][<a href="https://liu-q16.github.io/files/hicGAN_slides.pdf">ISMB talk slides</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
-</td>
-</tr>
 
 <!-- <tr>
 <td><img class="proj_thumb" src="images/mtbnn.png" width="320px" alt=""/>&nbsp;</td>
