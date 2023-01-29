@@ -136,7 +136,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 .pub_author{font-size:16px;}
 .pub_journal{font-size:16px;}
 .subtitle{ 
-    font-size:26px;           
+    font-size:16px;           
     width: 800px;  
     height: 40px; 
     text-align:center     
@@ -203,7 +203,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-</table>
+<!--/table>
 <!-- <tr>
 <td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Boost Neural Networks by Checkpoints </div>
