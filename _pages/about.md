@@ -163,6 +163,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 </td>
 </tr>
+</table>
 
 <div class="subtitle"> <i><b>- Generative models in computational biology -</b></i></div>
 
@@ -202,6 +203,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
+</table>
 <!-- <tr>
 <td><img class="proj_thumb" src="images/CBNN.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Boost Neural Networks by Checkpoints </div>
@@ -269,6 +271,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_author"> <b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang </div>
 <div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://academic.oup.com/bioinformatics/article/34/5/732/4562336">Paper</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
 </td>
+
+</table>
 
 
 
