@@ -10,11 +10,11 @@ The use of statistics is expanding rapidly inside and outside of academia, with 
 
 My research goal is to fulfill the new theories and methodologies for solving both statistical problems and data science problems in computational biology by developing computationally efficient techniques from machine learning field. I have been developing pioneered frameworks for causal inference (<a href="https://arxiv.org/abs/2212.05925">arXiv 2022</a>), density estimation (<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">PNAS 2021</a>), using <i>deep generative models</i> and apply the relative techniques to various computational biology problems, which include genomic studies (<a href="https://www.nature.com/articles/s42256-021-00333-y">NMI 2021</a>, <a href="https://academic.oup.com/bib/article-abstract/24/1/bbac494/6858951?redirectedFrom=fulltext">BIB 2022</a>,<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">ISMB/Bioinformatics 2019</a>), and pharmacology studies (<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">ECCB/Bioinformatcis 2020</a>,<a href="https://proceedings.neurips.cc/paper/2020/hash/5f268dfb0fbef44de0f668a022707b86-Abstract.html">NeurIPS 2020</a>). 
 
+## Selected papers
 
-## Representative works in Statistics
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.statspublist %}
+{% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -183,5 +183,4 @@ Bai Li, Mu Lin, <b>Qiao Liu</b>, Ya Li<br>
 </div>
 
 -->
-
 
