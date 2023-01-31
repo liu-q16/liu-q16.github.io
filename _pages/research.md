@@ -4,58 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
-## Overview
+## Overviews
 
 The use of statistics is expanding rapidly inside and outside of academia, with unprecedented growth in computationally intensive areas using large datasets from novel sources. How to efficiently and accurately decipher complex relationships underlying the large-scale data setting from real-world problems remains an urgent challenge. In recent years, a confluence of advances in machine learning and statistics is fueling a new wave of innovation that is poised to improve the data aggregation, estimation, interpretation, and prediction. Many classical disciplines of statistics are being redefined and reinforced by the magnificent bloom of machine learning. My general research goal lies in this multi-disciplinary area where I have been devoting to developing practical statistical and machine learning tools with both significance in statistical theory and applications in real-world problems. In particular, I have been pursuing this research agenda by exploiting the <i>deep generative models</i> to tackle several important statistical problems, such as density estimation, causal inference, and likelihood-free Bayesian inference, with broad applications in computational biology.
 
 My research goal is to fulfill the new theories and methodologies for solving both statistical problems and data science problems in computational biology by developing computationally efficient techniques from machine learning field. I have been developing pioneered frameworks for causal inference (<a href="https://arxiv.org/abs/2212.05925">arXiv 2022</a>), density estimation (<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">PNAS 2021</a>), using <i>deep generative models</i> and apply the relative techniques to various computational biology problems, which include genomic studies (<a href="https://www.nature.com/articles/s42256-021-00333-y">NMI 2021</a>, <a href="https://academic.oup.com/bib/article-abstract/24/1/bbac494/6858951?redirectedFrom=fulltext">BIB 2022</a>,<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">ISMB/Bioinformatics 2019</a>), and pharmacology studies (<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">ECCB/Bioinformatcis 2020</a>,<a href="https://proceedings.neurips.cc/paper/2020/hash/5f268dfb0fbef44de0f668a022707b86-Abstract.html">NeurIPS 2020</a>). 
 
 
-## Highlighted works in Statistics
+## Representative works in Statistics
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.stats_publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-
-## Highlighted works in computational biology
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.bio_publist %}
+{% for publi in site.data.statspublist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
