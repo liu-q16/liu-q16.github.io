@@ -12,9 +12,7 @@ My research goal is to fulfill the new theories and methodologies for solving bo
 
 
 
-##  papers
-
-(For a full list see my [Google Scholar](https://scholar.google.com/citations?user=StBWeZgAAAAJ&hl=zh-CN))
+##  Representative works in Statistics
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

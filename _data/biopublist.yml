@@ -1,0 +1,40 @@
+- title: "Simultaneous deep generative modeling and clustering of single-cell genomic data"
+  image: scDEC.png
+  description: We proposed scDEC, a computational tool for single cell data analysis with deep generative neural networks. scDEC is built on a pair of generative adversarial networks (GANs), and is capable of learning the latent representation and inferring the cell labels, simultaneously. scDEC can be used for clustering scATAC-seq and Multiome data.
+  authors: Qiao Liu, Shengquan Chen, Rui Jiang, Wing Hung Wong
+  link:
+    url: https://www.nature.com/articles/s42256-021-00333-y
+    display: Nature Machine Intelligence, 2021, 3(6):536-544.
+  highlight: 1
+  news2:
+
+- title: "Deep generative modeling and clustering of single cell Hi-C data"
+  image: scDEC-Hi-C.png
+  description: Deciphering 3D genome conformation is important for understanding gene regulation and cellular function at a spatial level. Here, we proposed scDEC-Hi-C, a new framework for single cell Hi-C analysis with deep generative neural networks.
+  authors: Qiao Liu, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang
+  link:
+    url: https://academic.oup.com/bib/article-abstract/24/1/bbac494/6858951?redirectedFrom=fulltext
+    display: Briefings in Bioinformatics, 2022.
+  highlight: 1
+  news2:
+
+- title: "hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks"
+  image: hicGAN.png
+  description: We proposed hicGAN for inferring high resolution Hi-C data from low resolution Hi-C data with generative adversarial networks (GANs). To the best of our knowledge, this is the first study to apply GANs to 3D genome analysis. Pretrained hicGAN models were also provided.
+  authors: Qiao Liu, Hairong Lv, Rui Jiang
+  link:
+    url: https://academic.oup.com/bioinformatics/article/35/14/i99/5529246
+    display:  Bioinformatics, 2019, 35(14):i99–i107
+  highlight: 1
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php">Invited presentation at ISMB2019</a>
+
+- title: "Cancer drug response prediction via a hybrid graph convolutional network"
+  image: DeepCDR.png
+  description:  DeepCDR is a hybrid graph convolutional network consisting of a uniform graph convolutional network (UGCN) and multiple subnetworks. Unlike prior studies modeling hand-crafted features of drugs, DeepCDR automatically learns the latent representation of topological structures among atoms and bonds of drugs. DeepCDR achieves state-of-the-art performance in cancer drug response prediction.
+  authors: Qiao Liu, Zhiqiang Hu, Rui Jiang and Mu Zhou
+  link:
+    url: https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929
+    display: Bioinformatics, 2021, 36(S2):i911–i918
+  highlight: 1
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://eccb2020.info/">Invited presentation at ECCB2020</a>
+  news2:
