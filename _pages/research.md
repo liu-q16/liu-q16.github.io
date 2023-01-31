@@ -1,8 +1,10 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
+
+The use of statistics is expanding rapidly inside and outside of academia, with unprecedented growth in computationally intensive areas using large datasets from novel sources. How to efficiently and accurately decipher complex relationships underlying the large-scale data setting from real-world problems remains an urgent challenge. In recent years, a confluence of advances in machine learning and statistics is fueling a new wave of innovation that is poised to improve the data aggregation, estimation, interpretation, and prediction. Many classical disciplines of statistics are being redefined and reinforced by the magnificent bloom of machine learning. My general research goal lies in this multi-disciplinary area where I have been devoting to developing practical statistical and machine learning tools with both significance in statistical theory and applications in real-world problems. In particular, I have been pursuing this research agenda by exploiting the <i>deep generative models</i> to tackle several important statistical problems, such as density estimation, causal inference, and likelihood-free Bayesian inference, with broad applications in computational biology.
 
 ## Selected papers
 
