@@ -1,12 +1,6 @@
 - title: "CausalEGM: a general causal inference framework by encoding generative modeling"
   image: CausalEGM.png
-  description: In this article, we develop a general framework CausalEGM for estimating causal effects by encoding generative modeling, 
-  which can be applied in both binary and continuous treatment settings. Under the potential outcome framework with unconfoundedness, 
-  we establish a bidirectional transformation between the high-dimensional confounders space and a low-dimensional latent space where 
-  the density is known. Through this, CausalEGM simultaneously decouples the dependencies of confounders on both treatment and outcome 
-  and maps the confounders to the low-dimensional latent space. By conditioning on the low-dimensional latent features, CausalEGM can estimate 
-  the causal effect for each individual or the average causal effect within a population. Our theoretical analysis shows that the excess risk 
-  for CausalEGM can be bounded through empirical process theory. Under an assumption on encoder-decoder networks, the consistency of the estimate can be guaranteed.
+  description: In this article, we develop a general framework CausalEGM for estimating causal effects by encoding generative modeling
   authors: Qiao Liu, Zhongren Chen, Wing Hung Wong
   link:
     url: https://arxiv.org/abs/2212.05925
