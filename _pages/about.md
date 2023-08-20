@@ -172,7 +172,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <tr>
 <td><img class="proj_thumb" src="images/EpiGePT.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> EpiGePT: a Pretrained Transformer model for epigenomics </div>
-<div class="pub_author"> Zijing Gao*, <b>Qiao Liu*</b>, Wanwen Zeng, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_author"> Zijing Gao*, <b>Qiao Liu*</b> (co-first,co-corresponding), Wanwen Zeng, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>bioXiv</b>, 2023 [<a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1">Preprint</a>]</div>
 </td>
 </tr>
