@@ -234,7 +234,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
 </tr> -->
-<div class="subtitle"> <i><b>- Others -</b></i></div>
+<div class="subtitle"> <i><b>- Miscellaneous -</b></i></div>
 
 <table class="imgtable">
 
