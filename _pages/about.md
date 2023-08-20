@@ -152,7 +152,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
-<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>][<a href="https://causalegm.readthedocs.io/en/latest/">Website</a>]</div>
 </td>
 </tr>
 
