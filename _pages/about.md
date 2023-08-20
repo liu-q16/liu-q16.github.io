@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. Wing Hung Wong. My research interests lie on the intersection of machine learning, statistics, and computational biology. I'm especially fascinated in solving several problems in statistics, such as density estimation, causal inference, likelihood-free Bayesian, with <i>deep generative models</i>. Besides, I'm also interested in various problems in computational biology and biomedical informatics, which involves genomic data, pharmacology data, biomedical data analysis.
+I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. Wing Hung Wong. My research interests lie on the intersection of machine learning, statistics, and computational biology. I'm especially fascinated in solving several problems in statistics, such as density estimation, causal inference, likelihood-free Bayesian, with <i>deep generative models</i>. Besides, I'm also interested in applied statistical problems in computational biology and biomedical informatics, which involves genomic data, pharmacology data, biomedical data analysis.
 </div>
 
 ## Recent News
@@ -170,6 +170,22 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <table class="imgtable">
 
 <tr>
+<td><img class="proj_thumb" src="images/EpiGePT.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> EpiGePT: a Pretrained Transformer model for epigenomics </div>
+<div class="pub_author"> Zijing Gao*, <b>Qiao Liu*</b>, Wanwen Zeng, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>bioXiv</b>, 2023 [<a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1">Preprint</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/scDEC-Hi-C.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Deep generative modeling and clustering of single cell Hi-C data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wanwen Zeng, Wei Zhang, Sicheng Wang, Hongyang Chen, Rui Jiang, Mu Zhou, Shaoting Zhang </div>
@@ -185,15 +201,6 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>Nucleic Acids Research</b>, 2022 [<a href="http://health.tsinghua.edu.cn/openannotate/">Server Link</a>][<a href="https://academic.oup.com/nar/article/49/W1/W483/6276912">Paper</a>]</div>
 </td>
 </tr> -->
-
-
-<tr>
-<td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
-</td>
-</tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
