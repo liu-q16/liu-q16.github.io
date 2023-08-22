@@ -13,7 +13,7 @@ redirect_from:
 </style>
 
 <div class="intro">
-I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. Wing Hung Wong. My research interests lie on the intersection of machine learning, statistics, and computational biology. I'm especially fascinated in solving several problems in statistics, such as density estimation, causal inference, likelihood-free Bayesian, with <i>deep generative models</i>. Besides, I'm also interested in applied statistical problems in computational biology and biomedical informatics, which involves genomic data, pharmacology data, biomedical data analysis.
+I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a> (NAS member). Prior to that, I was a PhD student from <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I spent two years in Stanford University, jointly advised by Prof. Wing Hung Wong. My research interests lie on the intersection of machine learning, statistics, and computational biology. I'm especially fascinated in solving several problems in statistics, such as density estimation, causal inference, likelihood-free Bayesian, with <i>deep generative models</i>. Besides, I'm also interested in various problems in computational biology and biomedical informatics, which involves genomic data, pharmacology data, biomedical data analysis.
 </div>
 
 ## Recent News
@@ -24,6 +24,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="news">
   <ul>
+  <li>2023.08 - Our Pretrained Transformer model for epigenomics is on <a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.abstract">bioXiv</a>.</li>
   <li>2022.12 - Our Causal Inference work by deep generative modeling is on <a href="https://arxiv.org/abs/2212.05925">arXiv</a>.</li>
   <li>2022.10 - Our study on single cell Hi-C data clustering was accepted to <a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Briefings in Bioinformatics</a>.</li>
   <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Nucleic Acids Research</a>.</li>
