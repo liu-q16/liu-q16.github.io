@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="intro">
 I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral scholar</a> from <a href="https://statistics.stanford.edu/">Department of Statistics</a>, <a href="https://www.stanford.edu/">Stanford University</a>, advised by Prof. <a href="https://statistics.stanford.edu/people/wing-hung-wong">Wing Hung Wong</a>. My general research interest lies in the multi-disciplinary area where I have been committed to developing practical statistical and machine learning tools with significance in both statistical theory and applications. Currently, I am interested in the following topics:
-<ul>
+<ul style="padding-left:20px">
   <li>Causal inference with spatial and temporal heterogeneity with applications in multiomics data to identify causal pathways in complex human diseases.</li>
   <li>Genomic large language models (LLMs) development and applications in interpreting the functional impact of genetic variants in large cohort studies.</li>
   <li>Single cell genomics with emphasis on modeling the cell state transition dynamics with the state-of-the-art <i>generative AI</i> techniques.</li>
