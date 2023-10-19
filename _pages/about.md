@@ -150,7 +150,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 } 
 </style>
 
-<div class="subtitle"> <i><b>- Generative models in Statistics -</b></i></div>
+<div class="subtitle"> <i><b>- Deep Generative Models in Statistics -</b></i></div>
 
 
 <table class="imgtable">
@@ -172,7 +172,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </tr>
 </table>
 
-<div class="subtitle"> <i><b>- Generative models in computational biology -</b></i></div>
+<div class="subtitle"> <i><b>- Deep Generative Models in Computational Biology -</b></i></div>
 
 <table class="imgtable">
 
