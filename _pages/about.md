@@ -25,7 +25,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="news">
   <ul>
-  <li>2023.08 - Our Pretrained Transformer model for epigenomics is on <a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.abstract">bioXiv</a>.</li>
+  <li>2023.08 - Our Pretrained Transformer model for epigenomics is on <a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.abstract">bioRxiv</a>.</li>
   <li>2022.12 - Our Causal Inference work by deep generative modeling is on <a href="https://arxiv.org/abs/2212.05925">arXiv</a>.</li>
   <li>2022.10 - Our study on single cell Hi-C data clustering was accepted to <a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Briefings in Bioinformatics</a>.</li>
   <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Nucleic Acids Research</a>.</li>
@@ -175,7 +175,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/EpiGePT.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> EpiGePT: a Pretrained Transformer model for epigenomics </div>
 <div class="pub_author"> Zijing Gao*, <b>Qiao Liu*</b> (also co-corresponding), Wanwen Zeng, Wing Hung Wong, Rui Jiang </div>
-<div class="pub_journal"><b>bioXiv</b>, 2023 [<a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1">Preprint</a>]</div>
+<div class="pub_journal"><b>bioRxiv</b>, 2023 [<a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1">Preprint</a>]</div>
 </td>
 </tr>
 
