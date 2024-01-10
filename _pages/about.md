@@ -256,7 +256,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>Quantitative Biology</b>, 2023 [<a href="https://journal.hep.com.cn/qb/EN/10.15302/J-QB-022-0320">Paper</a>][<a href="https://github.com/wanwenzeng/deepdrug">Code</a>]</div>
 </td>
 </tr>
-
+</table>
 
 <div class="subtitle"> <i><b>- Miscellaneous -</b></i></div>
 
@@ -278,22 +278,14 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </td>
 </tr>
 
-<!-- <tr>
-<td><img class="proj_thumb" src="images/mtbnn.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Quantifying Functional Impact of Non-coding Variants With Multi-task Bayesian Neural Network
-</div>
-<div class="pub_author"> Chencheng Xu, <b>Qiao Liu</b>, Jianyu Zhou, Minzhu Xie, Jianxing Feng and Tao Jiang </div>
-<div class="pub_journal"><b>Bioinformatics</b>, 2019 [<a href="https://liu-q16.github.io/publications/MtBNN">Abstract</a>][<a href="https://liu-q16.github.io/files/mtbnn.pdf">PDF</a>][<a href="https://github.com/Zoesgithub/MtBNN">Code</a>]</div>
-</td> -->
-
 <tr>
 <td><img class="proj_thumb" src="images/Deopen.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Chromatin accessibility prediction via a hybrid deep convolutional neural network</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang </div>
 <div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://academic.oup.com/bioinformatics/article/34/5/732/4562336">Paper</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
 </td>
-
-
+</tr>
+</table>
 
 
 
