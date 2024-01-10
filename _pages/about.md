@@ -145,7 +145,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 } 
 </style>
 
-<div class="subtitle"> <i><b>- Deep Generative Models in Statistics -</b></i></div>
+<div class="subtitle"> <i><b>- Generative AI in Statistics -</b></i></div>
 
 
 <table class="imgtable">
@@ -154,26 +154,26 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
-<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>][<a href="https://causalegm.readthedocs.io/en/latest/">Website</a>]</div>
+<div class="pub_journal"><b>arXiv</b>, 2023 [<a href="https://arxiv.org/abs/2212.05925">Preprint</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>][<a href="https://causalegm.readthedocs.io/en/latest/">Website</a>][<a href="https://imstat.org/2023/03/31/wing-hung-wong-grace-wahba-lecture/">Grace Wahba Lecture</a>]</div>
 </td>
 </tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<td><div class="pub_title"> Desity estimation with deep generative neural networks </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
 </td>
 </tr>
 </table>
 
-<div class="subtitle"> <i><b>- Deep Generative Models in Computational Biology -</b></i></div>
+<div class="subtitle"> <i><b>- Generative AI in Computational Biology -</b></i></div>
 
 <table class="imgtable">
 
 <tr>
 <td><img class="proj_thumb" src="images/EpiGePT.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> EpiGePT: a Pretrained Transformer model for epigenomics </div>
+<td><div class="pub_title"> EpiGePT: a pretrained Transformer model for epigenomics </div>
 <div class="pub_author"> Zijing Gao*, <b>Qiao Liu*</b> (also co-corresponding), Wanwen Zeng, Wing Hung Wong, Rui Jiang </div>
 <div class="pub_journal"><b>bioRxiv</b>, 2023 [<a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1">Preprint</a>]</div>
 </td>
@@ -181,7 +181,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <tr>
 <td><img class="proj_thumb" src="images/scDEC.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Simultaneous Deep Generative Modeling and Clustering of Single-cell Genomic Data </div>
+<td><div class="pub_title"> Simultaneous deep generative modeling and clustering of single-cell genomic data </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Shengquan Chen, Rui Jiang, Wing Hung Wong </div>
 <div class="pub_journal"><b>Nature Machine Intelligence</b>, 2021 [<a href="https://www.nature.com/articles/s42256-021-00333-y">Paper</a>][<a href="https://liu-q16.github.io/files/scDEC.pdf">PDF</a>][<a href="https://github.com/kimmo1019/scDEC">Code</a>]</div>
 </td>
@@ -206,7 +206,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <tr>
 <td><img class="proj_thumb" src="images/hicGAN.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> hicGAN Infers Super Resolution Hi-C Data with Generative Adversarial Networks</div>
+<td><div class="pub_title"> hicGAN infers super resolution Hi-C data with generative adversarial networks</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Hairong Lv, Rui Jiang </div>
 <div class="pub_journal"><b>ISMB/Bioinformatics</b>, 2019 [<a href="https://academic.oup.com/bioinformatics/article/35/14/i99/5529246">Paper</a>][<a href="https://liu-q16.github.io/files/hicGAN_slides.pdf">ISMB talk slides</a>][<a href="https://github.com/kimmo1019/hicGAN">Code</a>]</div>
 </td>
@@ -236,6 +236,27 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 <div class="pub_journal"><b>MICCAI</b>, 2020 [<a href="https://liu-q16.github.io/publications/FENet">Abstract</a>][<a href="https://liu-q16.github.io/files/FENet.pdf">PDF</a>]</div>
 </td>
 </tr> -->
+
+<div class="subtitle"> <i><b>- AI-assisted Drug Discovery -</b></i></div>
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Cancer drug response prediction via a hybrid graph convolutional network </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
+<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">Paper</a>][<a href="https://liu-q16.github.io/files/DeepCDR_slides.pdf">ECCB talk slides</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/Deepdrug.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> DeepDrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction </div>
+<div class="pub_author"> Qijin Yin, Rui Fan, Xusheng Cao <b>Qiao Liu#</b>, Rui Jiang# and Wanwen Zeng# </div>
+<div class="pub_journal"><b>Quantitative Biology</b>, 2023 [<a href="https://journal.hep.com.cn/qb/EN/10.15302/J-QB-022-0320">Paper</a>][<a href="https://github.com/wanwenzeng/deepdrug">Code</a>]</div>
+</td>
+</tr>
+
+
 <div class="subtitle"> <i><b>- Miscellaneous -</b></i></div>
 
 <table class="imgtable">
@@ -250,21 +271,11 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <tr>
 <td><img class="proj_thumb" src="images/DeepCAGE.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Incorporating Gene Expression in Genome-wide Prediction of Chromatin Accessibility via Deep Learning </div>
+<td><div class="pub_title"> Incorporating gene expression in genome-wide prediction of chromatin accessibility via deep learning </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Wing Hung Wong, Rui Jiang </div>
 <div class="pub_journal"><b>Genomics, Proteomics & Bioinformatics</b>, 2020 [<a href="https://www.sciencedirect.com/science/article/pii/S1672022922000249">Paper</a>][<a href="https://github.com/kimmo1019/DeepCAGE">Code</a>]</div>
 </td>
 </tr>
-
-
-<tr>
-<td><img class="proj_thumb" src="images/DeepCDR.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Cancer Drug Response Prediction via a Hybrid Graph Convolutional Network </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhiqiang Hu, Rui Jiang and Mu Zhou </div>
-<div class="pub_journal"><b>ECCB/Bioinformatics</b>, 2020 [<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_2/i911/6055929">Paper</a>][<a href="https://liu-q16.github.io/files/DeepCDR_slides.pdf">ECCB talk slides</a>][<a href="https://github.com/kimmo1019/DeepCDR">Code</a>]</div>
-</td>
-</tr>
-
 
 <!-- <tr>
 <td><img class="proj_thumb" src="images/mtbnn.png" width="320px" alt=""/>&nbsp;</td>
@@ -276,7 +287,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <tr>
 <td><img class="proj_thumb" src="images/Deopen.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Chromatin Accessibility Prediction via a Hybrid Deep Convolutional Neural Network</div>
+<td><div class="pub_title"> Chromatin accessibility prediction via a hybrid deep convolutional neural network</div>
 <div class="pub_author"> <b>Qiao Liu</b>, Xia Fei, Qijin Yin and Rui Jiang </div>
 <div class="pub_journal"><b>Bioinformatics</b>, 2017 [<a href="https://academic.oup.com/bioinformatics/article/34/5/732/4562336">Paper</a>][<a href="https://liu-q16.github.io/files/Deopen.pdf">PDF</a>][<a href="https://github.com/kimmo1019/Deopen">Code</a>]</div>
 </td>
