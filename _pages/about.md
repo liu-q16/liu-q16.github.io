@@ -238,6 +238,7 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 </tr> -->
 
 <div class="subtitle"> <i><b>- AI-assisted Drug Discovery -</b></i></div>
+
 <table class="imgtable">
 
 <tr>
