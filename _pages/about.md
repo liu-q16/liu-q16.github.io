@@ -25,8 +25,8 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="news">
   <ul>
+  <li>2024.05 - Our Causal Inference work by encoding generative modeling is on <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2322376121">PNAS</a>.</li>
   <li>2023.08 - Our Pretrained Transformer model for epigenomics is on <a href="https://www.biorxiv.org/content/10.1101/2023.07.15.549134v1.abstract">bioRxiv</a>.</li>
-  <li>2022.12 - Our Causal Inference work by deep generative modeling is on <a href="https://arxiv.org/abs/2212.05925">arXiv</a>.</li>
   <li>2022.10 - Our study on single cell Hi-C data clustering was accepted to <a href="https://www.biorxiv.org/content/10.1101/2022.07.19.500573v1.abstract">Briefings in Bioinformatics</a>.</li>
   <li>2022.09 - Our study on <a href="http://health.tsinghua.edu.cn/hichipdb/">HiChIP database</a> was accepted to <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac859/6754910">Nucleic Acids Research</a>.</li>
   <li>2022.08 - I will give a invited talk at Washington, DC for <a href="https://ww2.amstat.org/meetings/jsm/2022/">Joint Statistical Meetings (JSM) 2022</a>.</li>
@@ -147,14 +147,13 @@ I am currently a <a href="https://profiles.stanford.edu/qiao-liu">postdoctoral s
 
 <div class="subtitle"> <i><b>- Generative AI in Statistics -</b></i></div>
 
-
 <table class="imgtable">
 
 <tr>
 <td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
+<td><div class="pub_title"> An encoding generative modeling approach to dimension reduction and covariate adjustment in causal inference with observational studies </div>
 <div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
-<div class="pub_journal"><b>arXiv</b>, 2023 [<a href="https://arxiv.org/abs/2212.05925">Preprint</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>][<a href="https://causalegm.readthedocs.io/en/latest/">Website</a>][<a href="https://imstat.org/2023/03/31/wing-hung-wong-grace-wahba-lecture/">Grace Wahba Lecture</a>]</div>
+<div class="pub_journal"><b>PNAS</b>, 2024 [<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2322376121">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>][<a href="https://causalegm.readthedocs.io/en/latest/">Website</a>][<a href="https://imstat.org/2023/03/31/wing-hung-wong-grace-wahba-lecture/">Grace Wahba Lecture</a>]</div>
 </td>
 </tr>
 
